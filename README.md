@@ -1,14 +1,14 @@
 <img src="https://github.com/crahal/PopStudies_Review/blob/master/assets/cover_picture.png" width="900"/>
 
 
-# PopStudies Review
+# Changing Stantards of Quantitative Social Science Publishing
 
 [![Generic badge](https://img.shields.io/badge/Python-3.7-<red>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/License-MIT-orange.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Maintained-Yes-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/BuildPassing-Yes-red.svg)](https://shields.io/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4553236.svg)](https://doi.org/10.5281/zenodo.4553236)
 ---
 
 ## Introduction
 
-This is a repository to accompany a scientometric review of the journal Population Studies, written by Melinda C. Mills and Charles Rahal, entitled 'Disrupting Demography: A study of Population Studies'. It analyzes the ~2000 papers published by the journal in honour of the journal's 75th anniversary. Links to open-access (OSF) versions of the Paper will follow in due course.
+This is a repository to accompany a scientometric review of the journal European Societies, written by Melinda C. Mills and Charles Rahal, entitled 'Disrupting Demography: A study of Population Studies'. It analyzes the ~2000 papers published by the journal in honour of the journal's 75th anniversary. Links to open-access (OSF) versions of the Paper will follow in due course. The basic analysis is divided into two parts.
 
 ## Pre-reqs
 
@@ -37,4 +37,4 @@ Research assistance for the manual data curation was provided by Sofia Gieystor 
 
 * Docstrings, docstrings, docstrings
 
-Last updated: 2020-02-20
+Last updated: 2021-05-17
