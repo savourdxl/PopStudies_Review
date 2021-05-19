@@ -1,0 +1,809 @@
+number_volume,number_issue,number_article,type,link
+1,1,1,introduction,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749922
+1,1,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749923
+1,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749924
+1,1,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749925
+1,1,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749926
+1,1,6,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749927
+1,1,7,book review,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749928
+1,2,1,introduction,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749929
+1,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749930
+1,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749931
+1,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749932
+1,2,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749933
+1,2,7,book review,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749935
+1,3,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749936
+1,3,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749937
+1,3,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749938
+1,3,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749939
+1,3,5,book review,https://www.tandfonline.com/doi/abs/10.1080/14616696.1999.10749940
+2,1,1,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900360701
+2,1,2,editorial,https://www.tandfonline.com/doi/abs/10.1080/146166900360693
+2,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900360710
+2,1,4,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900360729
+2,1,5,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900360738
+2,1,6,book review,https://www.tandfonline.com/doi/abs/10.1080/146166900360747
+2,2,1,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900412037
+2,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900412046
+2,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900412055
+2,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900412064
+2,2,5,book review,https://www.tandfonline.com/doi/abs/10.1080/146166900412073
+2,3,1,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900750036277
+2,3,2,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900750036286
+2,3,3,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900750036295
+2,3,4,Article,https://www.tandfonline.com/doi/abs/10.1080/146166900750036303
+2,3,5,book review,https://www.tandfonline.com/doi/abs/10.1080/146166900750036312
+2,4,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690020014343
+2,4,2,Article,https://www.tandfonline.com/doi/abs/10.1080/713767005
+2,4,3,Article,https://www.tandfonline.com/doi/abs/10.1080/713767001
+2,4,4,Article,https://www.tandfonline.com/doi/abs/10.1080/713766999
+2,4,5,Article,https://www.tandfonline.com/doi/abs/10.1080/713767003
+2,4,6,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690020025215
+2,4,7,book review,https://www.tandfonline.com/doi/abs/10.1080/713767004X
+2,4,8,editorial,https://www.tandfonline.com/doi/abs/10.1080/146166900450756
+3,1,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120046923
+3,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120046932
+3,1,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120046941
+3,1,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120046950
+3,1,6,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120046969
+3,1,7,book review,https://www.tandfonline.com/doi/abs/10.1080/14616690120046978
+3,2,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120054302
+3,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120054311
+3,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120054320
+3,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/146166901200543339
+3,2,5,book review,https://www.tandfonline.com/doi/abs/10.1080/14616690120054348
+3,3,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120079332
+3,3,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120079341
+3,3,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120079350
+3,3,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120079369
+3,3,5,book review,https://www.tandfonline.com/doi/abs/10.1080/14616690120079378
+3,4,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120112190
+3,4,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120112208
+3,4,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120112217
+3,4,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120112226
+3,4,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690120112235
+3,4,6,book review,https://www.tandfonline.com/doi/abs/10.1080/14616690120112244
+4,1,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220130973
+4,1,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220130982
+4,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220130991
+4,1,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220131008
+4,1,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220131017
+4,1,6,book review,https://www.tandfonline.com/doi/abs/10.1080/14616690220131026
+4,2,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220142772
+4,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220142781
+4,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220142790
+4,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690220142808
+4,3,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000013586
+4,3,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000013577
+4,3,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000013568
+4,4,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000022324
+4,4,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000022333
+4,4,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000022342
+4,4,4,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669022000022351
+4,4,5,book review,https://www.tandfonline.com/doi/abs/10.1080/1461669022000022360
+5,1,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000057668
+5,1,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000057668a
+5,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000057677
+5,2,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000072256
+5,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000072265
+5,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000072274
+5,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000076892
+5,2,5,book review,https://www.tandfonline.com/doi/abs/10.1080/1461669032000076883
+5,3,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000111298
+5,3,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000111306
+5,3,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000111315
+5,3,4,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000111324
+5,3,5,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000111333
+5,4,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127633
+5,4,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127642
+5,4,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127651
+5,4,4,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127660
+5,4,5,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127679
+5,4,6,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000127688
+6,1,1,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176288
+6,1,2,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176297
+6,1,3,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176305
+6,1,4,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176314
+6,1,5,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176323
+6,1,6,Article,https://www.tandfonline.com/doi/abs/10.1080/1461669032000176332
+6,2,1,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690664
+6,2,2,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690736
+6,2,3,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690691
+6,2,4,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690682
+6,2,5,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690709
+6,2,6,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690745
+6,2,7,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690754
+6,2,8,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690727
+6,2,9,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690673
+6,2,10,Article,https://www.tandfonline.com/doi/abs/10.1080/14616690410001690763
+6,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/1461669042000231410
+6,3,7,review article,https://www.tandfonline.com/doi/full/10.1080/1461669042000231627
+6,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/1461669042000295645
+7,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/1461669042000326992
+7,1,9,review article,https://www.tandfonline.com/doi/full/10.1080/1461669052000342100
+7,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690500083337
+7,2,8,review article,https://www.tandfonline.com/doi/full/10.1080/14616690500083659
+7,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690500193995
+7,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194001
+7,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194035
+7,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194050
+7,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194084
+7,3,6,book review,https://www.tandfonline.com/doi/full/10.1080/14616690500194134
+7,4,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500356147
+7,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194092
+7,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500342568
+7,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500194118
+7,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500351270
+8,1,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500492199
+8,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491464
+8,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491399
+8,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491423
+8,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491415
+8,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491324
+8,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491456
+8,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500491381
+8,1,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600551555
+8,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690600644939
+8,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600644988
+8,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600645001
+8,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600645043
+8,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600645092
+8,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600645175
+8,2,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616690600645324
+8,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/13691450600827780
+8,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600821974
+8,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600822006
+8,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600821990
+8,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600821966
+8,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690600822048
+8,3,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616690600822147
+8,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690601002558
+8,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690500342618
+8,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002582
+8,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002616
+8,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002673
+8,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002707
+9,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690601079408
+9,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601079416
+9,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601079424
+9,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601079432
+9,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601079440
+9,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601079457
+9,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701217734
+9,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002632
+9,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701217767
+9,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701217809
+9,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002574
+9,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701217858
+9,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002749
+9,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690601002665
+9,2,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616690601002756
+9,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701336476
+9,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314234
+9,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314564
+9,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314101
+9,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314093
+9,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314283
+9,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314150
+9,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701336518
+9,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701650561
+9,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314119
+9,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701449568
+9,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701591740
+9,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701318805
+9,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701314085
+9,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701374923
+9,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701396603
+9,4,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616690701348828
+9,5,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412780
+9,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412814
+9,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412830
+9,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412897
+9,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412855
+9,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412871
+9,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701412665
+10,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701722139
+10,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/09571260701526964
+10,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701523651
+10,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701419470
+10,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701592573
+10,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701348810
+10,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701536323
+10,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701872421
+10,2,2,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690701835204
+10,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701835253
+10,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701835261
+10,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701835287
+10,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701835311
+10,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701835337
+10,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701722071
+10,2,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701591765
+10,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690802076021
+10,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701846946
+10,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701771813
+10,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701744406
+10,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701326832
+10,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701833258
+10,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701833480
+10,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701744364
+10,3,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616690802087713
+10,3,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616690802087739
+10,3,11,book review,https://www.tandfonline.com/doi/full/10.1080/13668800802155670
+10,3,12,book review,https://www.tandfonline.com/doi/full/10.1080/13668800802155746
+10,3,13,book review,https://www.tandfonline.com/doi/full/10.1080/13668800802155753
+10,4,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871696
+10,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871738
+10,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871779
+10,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871795
+10,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871886
+10,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871894
+10,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871910
+10,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701871951
+10,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690802580956
+10,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701744398
+10,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701744380
+10,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701757853
+10,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701744372
+10,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/13668800801912543
+10,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690801890109
+10,5,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690801890117
+10,5,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616690802489943
+11,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690802667266
+11,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802209697
+11,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802209689
+11,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690801941084
+11,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690801961819
+11,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802155353
+11,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802248042
+11,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802054358
+11,2,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902914907
+11,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802155346
+11,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690801942116
+11,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802133293
+11,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802209705
+11,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690701846938
+11,2,7,book review,https://www.tandfonline.com/doi/full/10.1080/13668800802155688
+11,3,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764658
+11,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764674
+11,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764757
+11,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764724
+11,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764815
+11,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764823
+11,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764831
+11,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902764799
+11,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690903197742
+11,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802592589
+11,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802531926
+11,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802624168
+11,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802317862
+11,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802531090
+11,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802592597
+11,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902785695
+11,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690903424120
+11,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902785687
+11,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802326418
+11,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802475504
+11,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802474374
+11,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802326400
+11,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802588066
+12,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616690903574189
+12,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903042724
+12,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902718399
+12,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802592605
+12,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903219181
+12,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902890321
+12,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690802474366
+12,1,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616690903216989
+12,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.486596
+12,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902874705
+12,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903100456
+12,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003716894
+12,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903388960
+12,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616690902718381
+12,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903056005
+12,2,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616690903432347
+12,2,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616690903550320
+12,2,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003588822
+12,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.506807
+12,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483008
+12,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003735514
+12,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003596973
+12,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616690903165434
+12,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003716910
+12,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003716928
+12,3,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003588871
+12,3,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003588905
+12,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.519576
+12,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.515824
+12,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483003
+12,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483004
+12,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483007
+12,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483005
+12,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.497226
+12,4,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003594820
+12,4,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003665729
+12,4,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003732461
+12,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.541209
+12,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003716902
+12,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.497224
+12,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616691003786350
+12,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483006
+12,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483009
+12,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483010
+12,5,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.514351
+12,5,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003665737
+12,5,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616691003732693
+13,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.558183
+13,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.533784
+13,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.497225
+13,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483000
+13,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.540352
+13,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.540351
+13,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.523476
+13,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.523477
+13,1,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.518032
+13,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.572355
+13,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.547942
+13,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.514352
+13,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.514350
+13,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.514354
+13,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.483002
+13,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.540389
+13,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.493586
+13,2,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.547944
+13,3,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568248
+13,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568259
+13,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568254
+13,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568263
+13,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568265
+13,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568261
+13,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.568257
+13,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.607919
+13,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.580856
+13,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.597869
+13,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.550631
+13,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.580857
+13,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.580855
+13,4,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.572482
+13,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.639577
+13,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.624187
+13,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.514353
+13,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.580854
+13,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.597868
+13,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.607240
+13,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.607239
+13,5,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.607241
+13,5,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.641264
+14,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.660753
+14,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.638083
+14,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.624188
+14,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.638084
+14,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.638082
+14,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2010.547943
+14,1,15,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.657215
+14,1,16,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.657214
+14,2,1,correction,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.718199
+14,2,2,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.688375
+14,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676447
+14,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676456
+14,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676451
+14,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676455
+14,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676449
+14,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676450
+14,2,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676454
+14,2,14,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.657216
+14,2,15,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676662
+14,2,16,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676663
+14,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.711572
+14,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676661
+14,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.677050
+14,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676758
+14,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.691170
+14,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676660
+14,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.657212
+14,3,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.676664
+14,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.735063
+14,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724573
+14,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724575
+14,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724576
+14,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724577
+14,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724578
+14,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.724579
+14,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.709532
+14,4,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726367
+14,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.749071
+14,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726369
+14,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.720271
+14,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.721890
+14,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.709874
+14,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.709531
+14,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726368
+14,5,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.707670
+14,5,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748931
+14,5,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748932
+15,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.768008
+15,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748927
+15,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726733
+15,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.721891
+15,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.692806
+15,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.750732
+15,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.692807
+15,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.784630
+15,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767927
+15,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767923
+15,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767926
+15,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767924
+15,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767928
+15,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748930
+15,2,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726734
+15,2,10,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767929
+15,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.805516
+15,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.787436
+15,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.750730
+15,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.717633
+15,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.691171
+15,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.707669
+15,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.726735
+15,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.787434
+15,3,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.750731
+15,3,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767922
+15,3,11,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.767921
+15,3,12,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.792115
+15,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.838021
+15,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.835853
+15,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836400
+15,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836402
+15,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836403
+15,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836404
+15,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836405
+15,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836407
+15,4,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.836406
+15,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.858506
+15,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.798018
+15,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.749413
+15,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.721892
+15,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.829241
+15,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.840735
+15,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2011.638085
+15,5,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.792116
+15,5,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.798020
+16,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.876751
+16,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.859717
+16,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.717634
+16,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.809465
+16,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.677051
+16,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748928
+16,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.787435
+16,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.813957
+16,1,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.847207
+16,1,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.752856
+16,1,11,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.859719
+16,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.902555
+16,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.827230
+16,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.821619
+16,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.821621
+16,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.821620
+16,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.821622
+16,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.821623
+16,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.748929
+16,2,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.798019
+16,2,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.809466
+16,2,11,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.837189
+16,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.923190
+16,3,2,review article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.916335
+16,3,3,review article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.916331
+16,3,4,review article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.916334
+16,3,5,review article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.916332
+16,3,6,review article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.916333
+16,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.904916
+16,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.813958
+16,3,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.894547
+16,3,10,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.750729
+16,3,11,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.878097
+16,3,12,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.919011
+16,3,13,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.880498
+16,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.940687
+16,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.915418
+16,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.865064
+16,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.862287
+16,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.817597
+16,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.880497
+16,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.862286
+16,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2012.749414
+16,4,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.880499
+16,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968987
+16,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.946070
+16,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.939685
+16,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.928737
+16,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.946069
+16,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.941376
+16,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.904915
+16,5,8,correction,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.964936
+16,5,9,correction,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.914824
+17,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.996972
+17,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.934874
+17,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968796
+17,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968799
+17,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968797
+17,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.977323
+17,1,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.859718
+17,1,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2013.865065
+17,1,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.928738
+17,1,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.928739
+17,1,11,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968800
+17,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1032093
+17,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.977322
+17,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.968798
+17,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.995772
+17,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1007153
+17,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1009843
+17,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1006133
+17,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1064222
+17,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1018720
+17,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1018719
+17,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1035299
+17,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1035298
+17,3,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1028568
+17,3,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1028569
+17,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1092210
+17,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2014.977321
+17,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1064147
+17,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1051074
+17,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1072228
+17,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1051073
+17,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1061682
+17,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1072226
+17,4,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1072229
+17,4,10,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1072227
+17,4,11,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1058408
+17,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1135539
+17,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1088959
+17,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1103887
+17,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1120879
+17,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1124902
+17,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1118519
+17,5,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1087583
+18,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1157950
+18,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1134800
+18,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1139157
+18,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1141304
+18,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1124903
+18,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1124904
+18,1,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1134802
+18,2,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1141306
+18,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1153699
+18,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1141305
+18,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2015.1134801
+18,3,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1158846
+18,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1172717
+18,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1153697
+18,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1172719
+18,3,5,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1172720
+18,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1212927
+18,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1153698
+18,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1207791
+18,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1207792
+18,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1172716
+18,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1172718
+18,5,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1197408
+18,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1139158
+18,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1207794
+18,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1228991
+18,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1207793
+18,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1226375
+18,5,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1235219
+18,5,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1211720
+19,1,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1236283
+19,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1226373
+19,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1235218
+19,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1226374
+19,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1258083
+19,1,6,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1235220
+19,1,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1258085
+19,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1302578
+19,2,2,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268706
+19,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268700
+19,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268702
+19,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268701
+19,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268703
+19,3,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268704
+19,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290264
+19,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1258084
+19,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290266
+19,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290268
+19,3,6,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1235221
+19,3,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290269
+19,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1354148
+19,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1330488
+19,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1318330
+19,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1281429
+19,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1320566
+19,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1268705
+19,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290267
+19,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2016.1228992
+19,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1393992
+19,5,2,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334952
+19,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334948
+19,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334946
+19,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334945
+19,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334947
+19,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334950
+19,5,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1334951
+20,1,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1290265
+20,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1329934
+20,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1329935
+20,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1346195
+20,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402123
+20,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1405058
+20,2,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1390144
+20,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402121
+20,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1354390
+20,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1397723
+20,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1442928
+20,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1358391
+20,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402120
+20,2,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402119
+20,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1474325
+20,3,2,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371469
+20,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371320
+20,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371318
+20,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371315
+20,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371314
+20,3,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371319
+20,3,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371317
+20,3,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1371316
+20,4,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1448106
+20,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402124
+20,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1402122
+20,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1397724
+20,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2017.1405059
+20,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1437200
+20,4,7,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1454972
+20,4,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1455885
+20,4,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1478113
+20,5,1,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1487989
+20,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473624
+20,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473623
+20,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473622
+20,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473626
+20,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473625
+21,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1570055
+21,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1552980
+21,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494300
+21,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494291
+21,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1448107
+21,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1511820
+21,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1536800
+21,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1465989
+21,2,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1612206
+21,2,2,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1584325
+21,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1584324
+21,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1438638
+21,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1583357
+21,2,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1547836
+21,2,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1583356
+21,2,8,review,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1583355
+21,3,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1590618
+21,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1442929
+21,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1473627
+21,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1511818
+21,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1536801
+21,3,6,correction,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1621012
+21,4,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1647922
+21,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494301
+21,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494296
+21,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494299
+21,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494295
+21,4,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494293
+21,4,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494294
+21,4,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494297
+21,4,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1494292
+21,5,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616797
+21,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616790
+21,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616791
+21,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616794
+21,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616793
+21,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1518537
+21,5,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616792
+22,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1706886
+22,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1511819
+22,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1547837
+22,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1552981
+22,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1660394
+22,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2018.1547838
+22,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616795
+22,1,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1610786
+22,1,9,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1678049
+22,1,10,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1678050
+22,2,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1636110
+22,2,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1660392
+22,2,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1694162
+22,2,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1610785
+22,2,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1660393
+22,3,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1771861
+22,3,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1690159
+22,3,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1616796
+22,3,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1719178
+22,3,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1663895
+22,3,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1694163
+22,4,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1690158
+22,4,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1719179
+22,4,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1762909
+22,4,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1765405
+22,4,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1775273
+22,4,6,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1775274
+22,5,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2019.1694164
+22,5,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1793213
+22,5,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1823008
+22,5,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1793211
+22,5,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1719180
+22,5,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1822536
+23,1,1,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1746821
+23,1,2,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1758741
+23,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1764998
+23,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1823009
+23,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1762910
+23,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1764997
+23,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1793212
+23,1,8,book review,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1863444
+23,1,1,editorial,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1869284
+23,1,2,introduction,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1869283
+23,1,3,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1793215
+23,1,4,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1804973
+23,1,5,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1807040
+23,1,6,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1808692
+23,1,7,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1809690
+23,1,8,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1817522
+23,1,9,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1818113
+23,1,10,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1818270
+23,1,11,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1818271
+23,1,12,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1821075
+23,1,13,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1821076
+23,1,14,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1821077
+23,1,15,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1822537
+23,1,16,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1822538
+23,1,17,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1823010
+23,1,18,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1823450
+23,1,19,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1824003
+23,1,20,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1824004
+23,1,21,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1825766
+23,1,22,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1825767
+23,1,23,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1826554
+23,1,24,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1826555
+23,1,25,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1826556
+23,1,26,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1826557
+23,1,27,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1827447
+23,1,28,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828974
+23,1,29,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828975
+23,1,30,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828976
+23,1,31,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828977
+23,1,32,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828978
+23,1,33,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828979
+23,1,34,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1830144
+23,1,35,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1831038
+23,1,36,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1831572
+23,1,37,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1832239
+23,1,38,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1832700
+23,1,39,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833065
+23,1,40,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833066
+23,1,41,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833067
+23,1,42,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833068
+23,1,43,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833229
+23,1,44,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1833359
+23,1,45,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1834597
+23,1,46,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836383
+23,1,47,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836384
+23,1,48,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836385
+23,1,49,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836386
+23,1,50,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836387
+23,1,51,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836669
+23,1,52,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1839669
+23,1,53,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1839670
+23,1,54,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1841263
+23,1,55,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1841264
+23,1,56,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1846065
+23,1,57,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1846066
+23,1,58,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1852439
+23,1,59,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1852440
+23,1,60,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1857422
+23,1,61,Article,https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1839671
