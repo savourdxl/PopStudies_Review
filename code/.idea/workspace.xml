@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b3b8ccc-0456-41e3-9e87-f2928ce38e40" name="默认更改列表" comment="" />
+    <list default="true" id="7b3b8ccc-0456-41e3-9e87-f2928ce38e40" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/step1_crawling data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step1_crawling data.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,7 @@
       <workItem from="1621329049042" duration="56000" />
       <workItem from="1621329351850" duration="1362000" />
       <workItem from="1621333022024" duration="1278000" />
+      <workItem from="1621515025202" duration="142000" />
     </task>
     <servers />
   </component>
