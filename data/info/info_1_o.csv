@@ -1,0 +1,809 @@
+page_start,page_end,date_receive,date_accept,date_online,keyword
+1,7,,,21 Oct 2013,[]
+9,31,,,21 Oct 2013,"['business elites', 'corporate governance', 'legitimacy', 'ruling class', 'business schools', 'careers', 'top executives', 'Germany', 'Great Britain', 'France']"
+33,58,,,21 Oct 2013,"['social policy', 'family', 'women’s roles', 'Europe', 'equal opportunities', 'childlessness']"
+59,80,,,21 Oct 2013,"['gender', 'equal opportunities', 'European Union', 'employment', 'law', 'regulation']"
+81,104,,,21 Oct 2013,"['generations', 'family', 'social policy', 'aging']"
+105,116,,,21 Oct 2013,"['Ethnicity', 'multiculturalism', 'Sweden', 'culture', 'essentialism', 'hybridity']"
+117,131,,,21 Oct 2013,[]
+133,138,,,21 Oct 2013,[]
+139,167,,,21 Oct 2013,"['unemployment', 'social exclusion', 'social networks', 'psychological distress']"
+169,196,,,21 Oct 2013,"['unemployment', 'poverty', 'social policy models']"
+197,239,,,21 Oct 2013,"['public opinion', 'gender gap', 'equality policy', 'governance', 'European Union']"
+241,268,,,21 Oct 2013,"['attitudes', 'political trust', 'welfare state', 'redistribution', 'Sweden', 'Norway', 'comparative research']"
+289,318,,,21 Oct 2013,[]
+319,352,,,21 Oct 2013,"['neoliberalism', 'dominant ideology', 'urban violence', 'criminalization of poverty', 'welfare state', 'law and order', 'prison', 'penal policy', 'think-tanks']"
+353,389,,,21 Oct 2013,"['death and dying', 'brain death', 'organ transplantation act', 'reflexive modernisation', 'cultural change', 'Germany', 'comparison of cultures']"
+391,418,,,21 Oct 2013,"['economic resources', 'income distribution', 'poverty', 'living conditions', 'living standard', 'structural equation modeling']"
+419,456,,,21 Oct 2013,"['money', 'marriage', 'gender', 'power', 'ideology', 'discourse', 'household breadwinning']"
+457,496,,,21 Oct 2013,[]
+1,28,,,02 Dec 2010,"['Poverty', 'Values', 'Public Opinion', 'Welfare State', 'Welfare Regime']"
+5,6,,,02 Dec 2010,[]
+29,50,,,02 Dec 2010,"['Education', 'Vocational Education', 'Qualifications', 'Labor Markets', 'Unemployment', 'Comparative Research']"
+51,64,,,02 Dec 2010,"['Prices', 'Prohibition', 'Wealth']"
+65,90,,,02 Dec 2010,"['Collective Action', 'Social Networks', 'Post-SOCIALISM', 'Russia', 'Comparative Research', 'Professions']"
+91,108,,,02 Dec 2010,[]
+113,137,,,02 Dec 2010,"['Europe', 'Identity']"
+139,165,,,02 Dec 2010,"['European Union', 'Citizenship', 'Identity', 'Neoliberalism', 'Ethnoculturalism', 'Exclusion', 'Immigration']"
+167,194,,,02 Dec 2010,"['Church Attendance', 'Cross-NATIONAL Comparison', 'Religion', 'Secularization', 'Self-ASCRIBED Religiosity']"
+195,216,,,02 Dec 2010,"['Unemployment', 'Southern Europe', 'Active And Passive Labour Market Policies']"
+217,238,,,02 Dec 2010,[]
+243,269,,,02 Dec 2010,"['Labour Market', 'Unemployment', 'Social Security', 'Welfare State']"
+271,294,,,02 Dec 2010,"['Financial Games', 'Rational Action', 'Crowd Behaviour']"
+295,333,,,02 Dec 2010,"['Sex Segregation', 'Welfare State', 'Labour Market']"
+335,360,,,02 Dec 2010,"['Slovakia', 'Minority Questions', 'Transformation', 'Populism', 'Nationalism', 'Ethnic Democracy']"
+361,389,,,02 Dec 2010,[]
+397,430,,,02 Dec 2010,"['Social Stratification', 'Social Cleavages', 'Voting Behavior', 'Justice Attitudes', 'Eastern Europe']"
+431,452,,,02 Dec 2010,"['Public Attitudes', 'Values', 'Welfare', 'Political Economy', 'Europe']"
+453,482,,,02 Dec 2010,"['Welfare', 'Globalization', 'Neo-LIBERALISM', 'Scotland']"
+483,504,,,02 Dec 2010,"['Labour Market', 'Russia', 'Social Exclusion', 'Social Networks', 'Corruption']"
+505,531,,,02 Dec 2010,"['Poverty Dynamics', 'Echp', 'Welfare Regimes', 'Vicious Circle Processes', 'Log-LINEAR Models', 'Shift And Association Effects']"
+533,548,,,02 Dec 2010,[]
+549,562,,,23 Nov 2017,[]
+563,563,,,02 Dec 2010,[]
+1,22,,,07 Dec 2010,"['Economic Sociology', 'Markets', 'Status', 'Aesthetics', 'Fashion And Photography']"
+23,39,,,07 Dec 2010,"['Money', 'Euro', 'European Monetary Integration', 'European Union', 'European Central Bank', 'Economic Convergence']"
+41,67,,,07 Dec 2010,"['Economic Sociology', 'France', 'Durkheimianism', 'National Sociological Traditions']"
+69,90,,,07 Dec 2010,"['Financial Engineering', 'Financial Supervision', 'Market Risk', 'Model Risk', 'Reflexive Economic Sociology', 'Social Randomness']"
+91,110,,,07 Dec 2010,"['Autonomy', 'Economic Beliefs', 'Field Of Power', 'Homology', 'Multiple Correspondance Analysis', 'Scientific Field', 'Scientific Capital']"
+111,130,,,07 Dec 2010,[]
+135,165,,,02 Dec 2010,"['Sociology Of Religion', 'Secularisation', 'Individualisation', 'Central And Eastern Europe', 'Church And Religion']"
+167,190,,,02 Dec 2010,"['Methodology', 'Comparative Research', 'Europe', 'Gender', 'Case Studies']"
+191,212,,,02 Dec 2010,"['Household Income', 'Income Inequality', 'Czech Republic', 'Redistribution', 'Market Adjustment']"
+213,244,,,02 Dec 2010,"['Trust', 'Trust Regimes', 'Food Consumption', 'Gm Food', 'Consumer Movements']"
+245,256,,,02 Dec 2010,[]
+261,287,,,02 Dec 2010,"['European Integration', 'Institutional Theory', 'Political Entrepreneurs', 'Single Market Program', 'Strategic Action']"
+289,314,,,02 Dec 2010,"['European Union', 'Policy-MAKING', 'Institutions', 'Frames', 'Framing', 'Social Movements']"
+315,338,,,02 Dec 2010,"['National Identities', 'Emotion', 'Discourse', 'Trade Unions', 'Gender', 'Social Defence Mechanisms', 'Unconscious', 'Sociology', 'Psychoanalysis']"
+339,371,,,02 Dec 2010,"['Family', 'Employment', 'Gender', 'Spain']"
+373,381,,,02 Dec 2010,[]
+387,411,,,02 Dec 2010,"['Migration', 'Asylum', 'Rights', 'European Union', 'Harmonization', 'Civic Stratification']"
+413,445,,,02 Dec 2010,"['Education', 'Social Exclusion', 'Capabilities', ""Children'S Rights""]"
+447,469,,,02 Dec 2010,"['Social Security', 'Gender', 'Poverty', 'Employment', 'Educational Level']"
+471,494,,,02 Dec 2010,"['School-TO-WORK Transitions', 'Labour Market Integration', 'Education And Training Systems', 'Labour Market Structure', 'Europe']"
+495,523,,,02 Dec 2010,"['Old-AGE Pensions', 'Public Opinion', 'Welfare State Regimes', 'Pension Systems']"
+525,538,,,02 Dec 2010,[]
+1,26,,,02 Dec 2010,"['Europe', 'European Culture', 'European Identity', 'Civilization', 'Nation', 'European Citizenship', 'Concepts', 'Essentialism', 'Constructivism']"
+27,52,,,02 Dec 2010,"['Labour Market', 'Post-COMMUNIST Transformation', 'Competencies', 'Career Mobility', 'Social Stratification', 'Life Course']"
+53,78,,,02 Dec 2010,"['Education', 'Ethnic Germans', 'Immigration', 'Labour Market', 'Vocational Training']"
+79,105,,,02 Dec 2010,"['Labour Market', 'Job Matching', 'Overqualification', 'Income Inequality', 'Social Stratification']"
+107,140,,,02 Dec 2010,"['Social Mobility', 'Status Attainment', 'Social Inequality', 'Longitudinal Historical Analysis', 'Hungary']"
+141,156,,,02 Dec 2010,[]
+161,184,,,02 Dec 2010,"['Citizenship', 'Republic', 'Social Welfare', 'Fundamental Rights', 'Social Policies', 'Decentralisation', 'Bismarckian System', 'Universalism']"
+185,207,,,02 Dec 2010,"['Social Contacts', 'Individual Determinants', 'Welfare States', 'Multilevel Analyses']"
+209,233,,,02 Dec 2010,"['Poverty', 'Individualisation', 'Disadvantage', 'Cumulative', 'Social Class', 'Life-COURSE']"
+235,260,,,02 Dec 2010,"['Professions', 'Advocates/Solicitors', 'Pharmacists', 'Germany', 'Britain', 'Market Deregulation']"
+265,284,,,02 Dec 2010,"['Europe', 'Identity', 'Public Space', 'Institutional Theory', 'Textbooks And Curricula', 'History And Civics Education']"
+285,306,,,02 Dec 2010,"['Ageing', 'Ethnicity', 'Migration', 'Quality Of Life', 'Social Policy']"
+307,329,,,02 Dec 2010,"['Working Time', 'Households', 'Preferences', 'Europe']"
+331,357,,,02 Dec 2010,"['Gender', 'Welfare Regime', 'Welfare Restructuring', 'Work Welfare', 'Relationship', 'Individualization', 'Adult Worker Model Family']"
+359,380,,,02 Dec 2010,"['Social Assistance', 'Workfare', 'Welfare', 'Speenhamland Effect', 'European Employment Policies']"
+381,392,,,02 Dec 2010,"['Women', 'Pensions', 'United Kingdom', 'Privatization', 'Perception', 'Provision']"
+393,418,,,02 Dec 2010,"['Labour Force And Employment', 'Size And Structure', 'Retirement', 'Retirement Policies', 'Unemployment Insurance']"
+419,424,,,02 Dec 2010,[]
+1,32,,,09 Dec 2010,[]
+33,68,,,09 Dec 2010,[]
+69,90,,,04 Feb 2011,"['Nordic countries', 'welfare state', 're-commodification', 'cost containment', 'recalibration', 'rationalization']"
+93,137,,,02 Dec 2010,"['Social Trust', 'Social Capital', 'Cleavages', 'Personality', 'Cross-national Comparison', 'Euromodule Survey']"
+139,165,,,02 Dec 2010,"['Icvs', 'Cross-country Analysis', 'Corruption', 'Victimization', 'Economic Development', 'British Legal Culture', 'Federalism']"
+167,191,,,02 Dec 2010,"['Poverty', 'Poverty Dynamics', 'Echp', 'Welfare Regimes']"
+193,225,,,02 Dec 2010,"['Educational Systems', 'Intra-generational Mobility', 'Social Inequality']"
+227,231,,,02 Dec 2010,[]
+235,252,,,22 Jul 2010,"['European identity', 'European Commission', 'identity construction', 'temporality', 'Founding Fathers', 'enlargement']"
+253,282,,,22 Jul 2010,"['European security', 'European defence policy', 'public opinion', 'political identity', 'armed forces', 'officer corps']"
+283,302,,,22 Jul 2010,"['churches', 'East Germany', 'political change', 'process of institutionalization', 'rhetoric']"
+303,325,,,22 Jul 2010,"['reasons for divorce', 'causes of divorce', 'Muslims', 'Arabs', 'citizens of Israel', 'society in transition']"
+327,345,,,04 Jun 2010,[]
+349,351,,,04 Jun 2010,[]
+353,375,,,04 Jun 2010,"['family policy', 'child care', 'elderly care', 'gender', 'welfare state typology']"
+377,396,,,04 Jun 2010,"['care', 'care work', 'migrant workers', 'direct payments', 'cash for care']"
+397,417,,,04 Jun 2010,"['care', 'care payments', 'solidarity', 'informal care', 'care insurance', 'social policy']"
+419,443,,,04 Jun 2010,"['family policy', 'policy complexity', 'cash-for-care', 'mothers’ employment', 'Norway']"
+445,463,,,04 Jun 2010,"['care wage', 'disabled children', 'welfare state', 'family policy', 'Norway']"
+1,3,,,04 Jun 2010,[]
+5,27,,,04 Jun 2010,"['subjective well-being', 'life satisfaction', 'welfare measurement', 'Europe']"
+29,48,,,04 Jun 2010,"['welfare state', 'values', 'liberalism', 'social attitudes', 'inequality', 'Europe']"
+49,70,,,04 Jun 2010,"['job stability', 'labour turnover', 'unemployment', 'service economy', 'event history data', 'Germany']"
+71,96,,,04 Jun 2010,"['Western European integration', 'European Union', 'economic convergence', 'cohesion policies', 'comparative analysis']"
+97,117,,,04 Jun 2010,"['public and private spheres', 'post-Soviet societies', 'Russia', 'political culture', 'Soviet public', 'qualitative methods in sociology']"
+119,121,,,04 Jun 2010,[]
+123,147,,,04 Jun 2010,"['Central Europe', 'Eastern Europe', 'history of sociology', 'deCommunization', 'institutionalization', 'theory and methods', 'teaching']"
+149,157,,,04 Jun 2010,[]
+159,166,,,04 Jun 2010,[]
+167,168,,,04 Jun 2010,[]
+169,180,,,04 Jun 2010,[]
+181,203,,,04 Jun 2010,"['time distance', None, 'disparities', 'development gap', 'cohesion countries', 'candidate countries']"
+205,236,,,04 Jun 2010,"['Catholic schools', 'Protestant schools', 'religious schools', 'parental choice', 'school-effectiveness', 'scholastic achievement']"
+237,254,,,04 Jun 2010,"['civil society', 'European integration', 'democracy', 'policy-making']"
+255,260,,,04 Jun 2010,[]
+263,264,,,05 Oct 2009,[]
+409,412,,,05 Oct 2009,[]
+421,421,,,18 Aug 2006,[]
+1,2,,,21 Aug 2006,[]
+187,193,,,21 Aug 2006,[]
+195,196,,,01 Sep 2006,[]
+369,375,,,01 Sep 2006,[]
+377,378,,,01 Sep 2006,[]
+379,398,,,01 Sep 2006,"['family change', 'family policy', 'family and welfare state reform', 'demographic and social risks', 'gender and family relations', 'family in European society']"
+399,421,,,01 Sep 2006,"['methods', 'cross-national comparisons', 'quantitative and qualitative paradigms', 'social science', 'family and welfare', 'research and policy']"
+423,450,,,01 Sep 2006,"['economic exclusion', 'multidimensionality', 'vulnerability', 'multiple disadvantage', 'latent class analysis']"
+451,479,,,01 Sep 2006,"['gender', 'school to work transitions', 'education', 'field of study']"
+481,509,,,01 Sep 2006,[]
+511,511,,,20 Aug 2006,[]
+513,546,,,20 Aug 2006,"['labour market entrants', 'school-to-work transition', 'comparative research', 'labour market entry patterns']"
+547,566,,,20 Aug 2006,"['leaving home', 'Spain', 'familism', 'family solidarity', 'culture']"
+567,594,,,20 Aug 2006,"['legitimacy', 'responsibility', 'trust', 'uncertainty', 'environmental policy', 'food safety']"
+595,613,,,20 Aug 2006,[]
+1,2,,,19 Aug 2006,[]
+3,26,,,19 Aug 2006,"['car dependency', 'social exclusion', 'public transport', 'urban citizenship']"
+27,57,,,19 Aug 2006,"['social capital', 'welfare state regimes', 'social networks', 'trust', 'informal social support', 'ISSP']"
+59,81,,,19 Aug 2006,"['Internet', 'digital divide', 'socio-demographic factors', 'institutional differences', 'welfare regimes']"
+83,110,,,19 Aug 2006,"['unemployment', 'psychological distress', 'welfare regime', 'benefits']"
+111,140,,,19 Aug 2006,"['migration', 'mobility', 'multilevel', 'European Union']"
+141,167,,,19 Aug 2006,[]
+169,187,,,19 Aug 2006,"['cross-cultural research', 'insider/outsidership', 'access to data', 'aspects of gender', 'power and control', 'the principle of reciprocity']"
+189,211,,,19 Aug 2006,[]
+215,222,,,22 Aug 2006,[]
+223,249,,,22 Aug 2006,[]
+251,271,,,22 Aug 2006,"['human resources policy', 'regulation', 'working time accounts', 'time sovereignty', 'conduct of life']"
+273,294,,,22 Aug 2006,"['work-life balance', 'welfare state', 'industrial relations', 'trade unions']"
+295,317,,,22 Aug 2006,"['work life balance', 'welfare states', 'reconciliation of work and family', 'childcare leave systems']"
+319,341,,,22 Aug 2006,"['life course', 'working time', 'work life balance']"
+343,355,,,22 Aug 2006,[]
+357,359,,,17 Feb 2007,[]
+361,383,,,17 Feb 2007,"['care', 'older people', 'choice', 'OECD countries']"
+385,401,,,17 Feb 2007,"['care', 'professionalism', 'consumerism', 'informal care', 'market', 'family']"
+403,422,,,17 Feb 2007,"['home care', 'consumerism', 'contracts', 'care-giving work', 'needs testing', 'New Public Management']"
+423,442,,,17 Feb 2007,"['consumerism', 'choice', 'public services', 'social care']"
+443,463,,,17 Feb 2007,"['consumerism', 'care', 'elderly', 'choice', 'home help']"
+465,488,,,17 Feb 2007,[]
+491,491,,,23 Nov 2006,[]
+493,526,,,23 Nov 2006,"['intragenerational social mobility', 'post-soviet transition', 'factors influencing mobility']"
+527,553,,,23 Nov 2006,"['labour market policy', 'activation', 'comparative analysis', 'welfare reform', 'European social policy', 'post industrialism']"
+555,576,,,23 Nov 2006,"['active labour market policies', 'employment protection legislation', 'informal recruitment', 'social capital', 'unemployment compensation for young people', 'youth unemployment']"
+577,599,,,23 Nov 2006,"['special education', 'inclusive education', 'learning opportunity', 'segregation', 'integration', 'educational attainment']"
+601,624,,,23 Nov 2006,"['institutional trust', 'active trust', 'attitudes to gene technology', 'Eurobarometer', 'European public']"
+1,2,,,22 Dec 2006,[]
+3,21,,,22 Dec 2006,"['society', 'humanity', 'Europe', '‘rest of the world’', 'global', 'political']"
+23,44,,,22 Dec 2006,"['migration', 'identities', 'dialogical self', 'autobiographies', 'young people', 'hybridity']"
+45,64,,,22 Dec 2006,"['au pair', 'role', 'interaction', 'spousal relationships', 'caregiver']"
+65,90,,,22 Dec 2006,"['nationalist attitudes', 'threat', 'intercultural attitudes', 'border regions', 'macrosocial stress']"
+91,111,,,22 Dec 2006,"['migration', 'immigration', 'Greece', 'southern Europe', 'inclusion', 'exclusion', 'work', 'employment', 'Albanians']"
+115,117,,,29 Mar 2007,[]
+119,145,,,29 Mar 2007,"['poverty', 'income', 'income comparisons', 'Europe', 'nation state', 'regions']"
+147,173,,,29 Mar 2007,"['income poverty', 'material deprivation', 'multidimensionality', 'consistent poverty', 'economic strain', 'economic stress']"
+175,199,,,29 Mar 2007,"['child poverty', 'ethnic minority groups', 'employment', 'UK policy']"
+201,227,,,29 Mar 2007,"['welfare culture', 'formal care', 'comparative social policy analyses', 'professionalism', 'governance', 'old age provision']"
+229,244,,,29 Mar 2007,"['Lisbon process', 'knowledge-based economies', 'benchmarking', 'accountability', 'competitiveness']"
+245,273,,,29 Mar 2007,"['field of power', 'Norway', 'geometric data analysis', 'multiple correspondence analysis']"
+275,300,,,29 Mar 2007,"['gender budgeting', 'Belgium', 'gender mainstreaming', 'gender budget analysis', 'accountability', 'public management']"
+301,312,,,29 Mar 2007,[]
+313,314,,,27 Jun 2007,[]
+315,337,,,27 Jun 2007,"['childcare', 'Spain', 'welfare state', 'work/life balance', 'gender', 'policy change']"
+339,358,,,27 Jun 2007,"['life course policy', 'life course saving scheme', 'interdependency', 'standard biography']"
+359,382,,,27 Jun 2007,"['interpersonal influence', 'social capital', 'fertility', 'rational choice', 'behavioral intentions', 'Poland']"
+383,407,,,27 Jun 2007,"['social capital', 'hiring process', 'immigrants']"
+409,428,,,27 Jun 2007,"['flexibility', 'job control', 'job demands', 'psychological wellbeing', 'work/family conflict', 'work hours']"
+429,458,,,27 Jun 2007,"['temporary employment', 'unemployment', 'health']"
+459,490,,,27 Jun 2007,"['social class', 'occupations', 'health inequalities', 'poverty', 'deprivation', 'unemployment']"
+491,493,,,06 Sep 2007,[]
+495,526,,,06 Sep 2007,"['homogamy', 'stratification', 'social barriers', 'international patterns', 'marrying up']"
+527,550,,,06 Sep 2007,"['social inequality', 'educational attainment', 'social class', 'Denmark', 'family background', 'mixed logit model']"
+551,572,,,06 Sep 2007,"['higher education participation', 'pan-European', 'labour market success', 'students in higher education', 'transition from school to work']"
+573,599,,,06 Sep 2007,"['European knowledge economy', 'Turkish youth', 'political identities', 'social class', 'school dynamics', 'comparative research']"
+601,622,,,06 Sep 2007,"['citizenship', 'youth', 'social representations']"
+623,642,,,06 Sep 2007,"['trust', 'money', 'euro', 'European Central bank', 'identity', 'mimesis']"
+643,669,,,06 Sep 2007,"['euro-scepticism', 'ethnic competition', 'multilevel analysis', 'regions']"
+671,678,,,06 Sep 2007,[]
+681,684,,,07 Dec 2007,[]
+685,704,,,07 Dec 2007,"['public sphere', 'pan-European transnational channels', 'European identity and citizenship', 'European political communication', 'European integration', 'communication rights', 'depoliticization']"
+705,718,,,07 Dec 2007,"['European public sphere', 'risk communication', 'environmental issues']"
+719,734,,,07 Dec 2007,"['Europe', 'information society', 'digitalisation', 'European public sphere', 'mass media']"
+735,754,,,07 Dec 2007,"['children in the news', 'news-values', 'journalism', 'childhood']"
+755,775,,,07 Dec 2007,"['political websites', 'European public sphere', 'the Internet', '2004 European Parliament election']"
+777,796,,,07 Dec 2007,"['spatial relations', 'Baltic Sea region', 'Baltic countries', 'Estonia', 'European integration', 'media content']"
+1,2,,,10 Dec 2007,[]
+3,24,,,10 Dec 2007,"['Welfare state', 'investment', 'growth', 'cohesion']"
+25,47,,,10 Dec 2007,"['Welfare state', 'social services', 'sociology of the state', 'welfare mix', 'comparative analysis', 'European countries']"
+49,71,,,10 Dec 2007,"['poverty dynamics', 'social policy', 'welfare regimes', 'southern Europe', 'Portugal']"
+73,96,,,10 Dec 2007,"['culture', 'employment commitment', 'gender', 'preferences', 'work goals', 'work rewards', 'work values']"
+97,119,,,10 Dec 2007,"['Care credits', 'France', 'gender', 'Germany', 'pension norms']"
+121,140,,,10 Dec 2007,"['Europeanization', 'modernization', 'free movement of labor', 'non-discrimination']"
+143,143,,,28 Aug 2009,[]
+145,151,,,28 Aug 2009,[]
+153,176,,,28 Aug 2009,"['Europe', 'European Union', 'identity', 'ethnicity', 'models of Europe', 'meanings of Europe']"
+177,195,,,28 Aug 2009,"['EU enlargement', 'orientalism', 'cultural essentialism', 'transnationality', 'Turkey', 'Austria']"
+197,224,,,28 Aug 2009,"['migration', 'intra-EU mobility', 'European integration']"
+225,245,,,28 Aug 2009,"['cultural policy', 'European city of culture', 'Europeanization', 'identity', 'territoriality']"
+247,273,,,28 Aug 2009,"['subsidiarity', 'social policy', 'Europe', 'state spaces']"
+275,301,,,28 Aug 2009,"['nation', 'class', 'mass media', 'EU Constitution', 'welfare state', 'neoliberalism', 'federalism', 'democratic deficit']"
+303,325,,,28 Aug 2009,"['personal spatiality', 'lifeworld', 'transcultural communication', 'identity', 'EU enlargement']"
+325,327,,,13 Aug 2008,[]
+329,355,,,13 Aug 2008,"['class', 'class voting', 'party support', 'cleavage', 'middle class']"
+357,378,,,13 Aug 2008,"['mayors', 'members of parliament', 'independent candidacies', 'parties']"
+379,402,,,13 Aug 2008,"['income advantages', 'CP members', 'market transformation', 'Eastern Europe', 'matching']"
+403,428,,,13 Aug 2008,"['homology', 'habitus', 'social class', 'cultural consumption']"
+429,451,,,13 Aug 2008,"['Portugal', 'employment', 'gender', 'inequalities', 'call centres', 'ICT sector']"
+453,477,,,13 Aug 2008,"['economic consequences of divorce', 'childcare', 'panel analysis', 'female employment']"
+479,508,,,13 Aug 2008,"['intergenerational relations', 'support', 'family values']"
+509,511,,,13 Aug 2008,[]
+513,514,,,13 Aug 2008,[]
+515,516,,,13 Aug 2008,[]
+517,519,,,13 Aug 2008,[]
+521,523,,,13 Aug 2008,[]
+525,544,,,27 Sep 2008,[]
+545,565,,,27 Sep 2008,"['EU higher education policy', 'EU expert governance', 'EU-oriented professionalism', 'EU cultural capital', 'EU science- and policy project']"
+567,595,,,26 Sep 2008,"['EU', 'regulations', 'professions', 'architects', 'psychologists']"
+597,617,,,26 Sep 2008,"['equivalence of certificates', 'education systems', 'labour relations', 'trade unions', 'air transport']"
+619,633,,,26 Sep 2008,"['healthcare', 'governance', 'medical profession', 'European convergence']"
+635,652,,,27 Sep 2008,"['cultural professions', 'copyright law', 'EU-Directive', 'knowledge-society', 'work regulation']"
+653,672,,,27 Sep 2008,"['professional markets', 'European and state regulations', 'policy networks', 'professional representation', 'trade-unions', 'collective action', 'architects']"
+673,686,,,27 Sep 2008,"['support of job seekers in France', 'accompaniment', 'the unemployed', 'advisers', 'professionalism', 'French unemployment policies', 'European Employment Strategy']"
+687,688,,,24 Dec 2008,[]
+689,710,03 Apr 2007,,24 Dec 2008,"['activation', 'normalization', 'Europeanization', 'convergence', 'methodology']"
+711,735,03 Apr 2007,,24 Dec 2008,"['youth and adult unemployment', 'long-term unemployment', 'duration dependence', 'institutional embeddedness', 'labour market regulation', 'educational signalling']"
+737,762,,,24 Dec 2008,"['economic well-being', 'part-time work', 'Europe', 'work-life balance']"
+763,786,,,24 Dec 2008,"['fertility rates', 'family policy', 'economy', 'culture', 'cross-national comparison', 'The Netherlands']"
+787,810,03 Apr 2007,,24 Dec 2008,"['social insurance', 'European Union', 'European social model', 'convergence']"
+809,832,03 Apr 2007,,24 Dec 2008,"['surveillance', '9/11', 'immigrants', 'Germany']"
+835,856,,,24 Dec 2008,"['environmental justice', 'theory', 'inequality', 'sociology', 'robust strategies']"
+855,863,,,24 Dec 2008,[]
+1,2,,,21 Jan 2009,[]
+3,24,11 Dec 2007,,21 Jan 2009,"['cosmopolitanism', 'cosmopolitanization', 'Europe', 'identity', 'Eurobarometer survey', 'multiple discriminant analysis']"
+25,47,,,21 Jan 2009,"['work-related travel', 'cosmopolitanism', 'localism', 'orientations', 'belonging', 'Sweden']"
+49,76,,,21 Jan 2009,"['national business systems', 'inter-organizational relationships', 'comparative research', 'institutional framework', 'trust', 'power']"
+77,101,,,21 Jan 2009,"['informal economy', 'economic development', 'active citizenship', 'social cohesion', 'Ukraine']"
+103,136,11 Dec 2007,,21 Jan 2009,"['labor market', 'life cycle', 'Central Europe', 'post-communism', 'earnings']"
+137,159,,,21 Jan 2009,"['divorce', 'Italy', 'intergenerational effects']"
+161,185,,,21 Jan 2009,"['mortality', 'Russia', 'Latvia', 'Soviet Union', 'social differences', 'health crisis']"
+187,188,,,30 Apr 2009,[]
+189,210,,,30 Apr 2009,"['social capital', 'inequality', 'welfare state', 'Europe']"
+211,232,,,30 Apr 2009,"['welfare states', 'social policy preferences', 'generational cleavage', 'class cleavage', 'Switzerland']"
+233,255,,,30 Apr 2009,"['social networks', 'welfare state', 'new institutionalism', 'ISSP', 'family', 'friends']"
+257,282,,,30 Apr 2009,"['adults', 'social networks', 'learning habits']"
+283,309,,,30 Apr 2009,"['reference groups', 'income poverty', 'material deprivation', 'economic stress']"
+311,313,,,30 Apr 2009,[]
+315,324,,,19 Jun 2009,[]
+325,345,,,19 Jun 2009,"['young people', 'identities', 'travel', 'gender']"
+347,367,,,19 Jun 2009,"['resistance', 'communal living', 'family', 'gender', 'subjectivation', 'environmentalism']"
+369,389,,,19 Jun 2009,"['wedding', 'wedding guests', 'family relations', 'relationality']"
+391,410,,,19 Jun 2009,"['peer support', 'social bond', 'self', 'fate', 'suffering', 'other']"
+411,430,,,19 Jun 2009,"['haunting', 'individualization', 'subjectivity', 'relationality', 'psycho-social studies', 'psychoanalysis', 'racialized belonging', 'masculinity']"
+431,450,,,19 Jun 2009,"['reflexivity', 'sociability', 'drinking habits', 'young adults', 'diaries']"
+451,469,,,19 Jun 2009,"['youth', 'qualitative longitudinal', 'biographical', 'critical moments']"
+471,472,,,25 Sep 2009,[]
+473,493,,,25 Sep 2009,"['food safety', 'food policy', 'governance', 'EU', 'comparative analysis']"
+495,510,,,25 Sep 2009,"['bird flu', 'risk', 'attitudes and behaviors', 'Turkey']"
+511,530,,,25 Sep 2009,"['social capital', 'willingness to pay (WTP)', 'environmental attitudes', 'national differences']"
+531,551,,,25 Sep 2009,"['cultural capital', 'symbolic capital', 'education', 'paternalism']"
+553,582,,,25 Sep 2009,"['race', 'nation', 'gender', 'class', 'interconnected discriminations', '‘Black Shame’']"
+583,602,,,25 Sep 2009,"['religiosity belief', 'social status', 'income', 'education', 'Europe', 'Christian environment']"
+603,624,,,25 Sep 2009,"['cosmopolitanism', 'civic stratification', 'human rights', 'asylum', 'welfare']"
+625,626,,,20 Nov 2009,[]
+627,647,,,17 Jun 2009,"['European Union', 'empire', 'state-building', 'European integration']"
+649,671,,,18 Mar 2009,"['European Union', 'side-payments', 'open method of coordination', 'coalitions', 'committees']"
+673,695,,,18 Mar 2009,"['welfare', 'transnationalism', 'development', 'South East Europe', 'translation', 'projectisation']"
+697,721,,,02 Jul 2009,"['content analysis', 'employment skills', 'occupational groups']"
+723,746,,,03 Apr 2009,"['gender', 'gender segregation', 'field of study', 'education', 'labour market']"
+747,773,,,23 Mar 2009,"['secondary education', 'educational system', 'social selectivity', 'track mobility', 'transition research']"
+1,2,,,03 Feb 2010,[]
+3,23,,,29 Sep 2009,"['informal economy', 'post-Fordist transformation', 'recommodification of labour']"
+25,44,,,20 Oct 2009,"['Irish attitudes', 'immigrants', 'structural determinants', 'European comparison']"
+45,64,,,20 Oct 2009,"['lifestyle migration', 'British migration', 'rural France', 'integration', 'residential choice']"
+65,84,,,03 Feb 2010,"['gender', 'family', 'dual-income couples', 'money', 'equality', 'couple relationship']"
+85,111,,,23 Sep 2009,"['gender roles', 'family life styles', 'individualization', 'Welfare State']"
+113,133,,,21 Sep 2009,"['fertility', 'occupational segregation', 'type of employment', 'Spain']"
+135,136,,,03 Feb 2010,[]
+137,138,,,04 May 2010,[]
+139,162,,,23 Sep 2009,"['care', 'policies', 'employment', 'Austria', 'cross-national comparison']"
+163,185,,,20 Oct 2009,"['boundaries', 'eldercare', 'embeddedness', 'work']"
+187,207,,,04 May 2010,"['maternity legislation', 'path dependency', 'Ireland', 'Estonia']"
+209,230,,,27 Jan 2010,"['welfare state', 'activation', 'disability', 'Sweden', 'case study']"
+231,255,,,23 Sep 2009,"['bridging social capital', 'bonding social capital', 'earnings', 'subjective well-being', 'Poland', 'D10', 'J20']"
+257,278,,,06 Oct 2009,"['poverty dynamics', 'latent class analysis', 'welfare regimes', 'life course']"
+279,281,,,04 May 2010,[]
+283,285,,,04 May 2010,[]
+287,288,,,04 May 2010,[]
+289,291,,,20 Jul 2010,[]
+293,315,,,30 Jun 2010,"['civil society', 'transformation', 'European Union', 'democracy promotion', 'new member states', 'neo-liberalism']"
+317,337,,,20 Jul 2010,"['Portugal', 'Europeanization', 'rule of law', 'economic divergence', 'education']"
+339,366,,,20 Jul 2010,"[""mothers' employment"", 'family policy', 'cultural values', 'religion']"
+367,390,,,20 Jul 2010,"['comparative research', 'youth temporary employment', 'Enlarged Europe', 'employment protection', 'unions']"
+391,418,,,20 Jul 2010,"['informal economy', 'decent work', 'structure/agency', 'Moscow', 'Russia', 'post-socialism']"
+419,442,,,20 Jul 2010,"['division of housework', 'paid work', 'psychological distress', 'time use', 'gender equality', 'Sweden']"
+443,445,,,20 Jul 2010,[]
+447,448,,,20 Jul 2010,[]
+449,450,,,20 Sep 2010,[]
+451,465,,,20 Sep 2010,"['multiple modernities', 'Axial Age civilizations', 'democracy', 'universalism', 'particularism']"
+467,492,,,25 Jun 2010,"['post-materialism', 'Greens', 'left-right', 'democracy', 'congruence']"
+493,519,,,18 Jun 2010,"['participation', 'works council', 'social practice', 'regional cluster', 'microsystems technology', 'culture']"
+521,542,,,20 Sep 2010,"['non-voting', 'education', 'cohort', 'multilevel analysis']"
+543,566,,,25 Jun 2010,"['Europeanisation', 'Race Equality Directive', 'Lithuania', 'new EU member states']"
+567,589,,,20 Sep 2010,"['attachment', 'Europe', 'intercultural capital', 'teachers', 'England', 'Germany']"
+591,593,,,20 Sep 2010,[]
+595,596,,,20 Sep 2010,[]
+597,598,,,20 Sep 2010,[]
+599,601,,,16 Dec 2010,[]
+603,625,,,04 Oct 2010,"['Germany', 'panel data', 'productive ageing', 'retirement', 'SOEP', 'volunteer work']"
+627,652,,,17 Sep 2010,"['informal volunteering', 'welfare state', 'crowding out', 'social capital']"
+653,674,,,24 Jun 2010,"['transformation', 'social quality', 'agency', 'Russia', 'Belarus', 'Ukraine']"
+675,696,,,25 Jun 2010,"['intergenerational obligations', 'intergenerational regimes', 'social policies', 'care', 'transfers', 'gender']"
+697,717,,,04 Oct 2010,"['transition', 'social networks', 'network composition', 'MCA']"
+719,741,,,27 Jul 2010,"['citizenship', 'marketisation', 'privatisation', 'flows of resources']"
+743,764,,,16 Dec 2010,"['social control', 'individualism', 'detraditionalization', 'Protestantism', 'therapeutization', 'psi-disciplines']"
+765,766,,,16 Dec 2010,[]
+767,768,,,16 Dec 2010,[]
+1,4,,,18 Feb 2011,[]
+5,27,,,18 Feb 2011,"['education', 'employment status', 'high-skilled migrants', 'realistic individual threat', 'symbolic group threat', 'Switzerland', 'xenophobia']"
+29,50,,,15 Oct 2010,"['family and children migration', 'gendered migration', 'post-enlargement Europe', 'transnationalism', 'social and cultural capital']"
+51,68,,,08 Jul 2010,"['migration', 'social mobility', 'dominance effect']"
+69,91,,,18 Feb 2011,"['school-to-work transitions', 'vocational training', 'GSOEP', 'labour markets']"
+93,117,,,18 Feb 2011,"['intergenerational transmission of education', 'education', 'comparative research', 'industrialisation', 'social mobility']"
+119,142,,,05 Nov 2010,"['inequality in political participation', 'participation paradox', 'emerging forms of participation', 'Western Europe', 'conventional forms of political participation']"
+143,163,,,02 Dec 2010,"['upper class', 'cultural capital', 'taste', 'Bourdieu']"
+165,167,,,18 Feb 2011,[]
+169,170,,,18 Apr 2011,[]
+171,189,,,18 Apr 2011,"['gender', 'headscarf ban', 'religion', 'social mobility', 'Turkey']"
+191,217,,,10 Dec 2010,"['critical consumption', 'social movements', 'Europe', 'new participation', 'political consumers', 'cross-national']"
+219,237,,,02 Nov 2010,"['economic inequality', ""women's labour supply"", 'decomposition of inequality']"
+239,256,,,04 Nov 2010,"['work–life balance', 'family policy', 'parental leave', 'EU comparison', 'employment pattern']"
+257,278,,,25 Jun 2010,"['divorce', 'intergenerational effects of divorce', 'intergenerational relations', 'ageing', 'social inclusion']"
+279,305,,,28 Feb 2011,"['health', 'marital status', 'Europe', 'multilevel analysis']"
+307,325,,,17 Sep 2010,"['family change', 'cohabitation', 'divergence and convergence of family patterns', 'European countries']"
+327,329,,,18 Apr 2011,[]
+331,345,,,22 Jun 2011,[]
+347,375,,,22 Jun 2011,"['occupational attainment', 'social class', 'education', 'cohort effects']"
+377,400,,,22 Jun 2011,"['career mobility', 'intragenerational mobility', 'returns to education', 'growth curves', 'intergenerational reproduction']"
+401,423,,,22 Jun 2011,"['occupational mobility', 'Germany', 'inequality', 'cumulative advantage', 'cohort change']"
+425,450,,,22 Jun 2011,"['occupational career', 'social stratification', 'status attainment', 'The Netherlands']"
+451,479,,,22 Jun 2011,"['occupational attainment', 'careers', 'stratification', 'growth curve analysis', 'Sweden']"
+481,503,,,22 Jun 2011,"['education', 'class career', 'social mobility', 'sequences', 'lexicographic index']"
+505,507,,,24 Aug 2011,[]
+509,533,09 May 2010,27 Feb 2011,13 Jun 2011,"['retail banking', 'sociology', 'economics', 'reflexivity', 'performativity', 'Portugal']"
+535,557,10 Mar 2010,24 May 2011,24 Aug 2011,"['immigrants', 'confidence in institutions', 'discrimination']"
+559,582,27 Feb 2009,30 Nov 2010,11 Apr 2011,"['immigrants', 'immigration', 'prejudice', 'size', 'size perceptions', 'education', 'knowledge']"
+583,606,19 Jul 2010,27 Feb 2011,13 Jun 2011,"['class', 'race', 'education', 'widening participation', 'internationalisation']"
+607,631,10 Dec 2010,06 Apr 2011,28 Jun 2011,"['union', 'equality', 'gender', 'career', 'organisation', 'France', 'UK']"
+633,635,,,24 Aug 2011,[]
+637,639,,,16 Dec 2011,[]
+641,662,19 Sep 2009,29 Jul 2011,01 Nov 2011,"['subjective work goals', 'Inglehart', 'comparative research', 'Europe']"
+663,686,27 Jul 2009,29 Jul 2010,02 Dec 2010,"['country comparison', 'European Values Study', 'extrinsic job preference', 'intrinsic job preference', 'scalar invariance model', 'work values']"
+687,712,10 Aug 2009,08 Mar 2011,13 Jun 2011,"['social networks', 'immigrants', 'labour market', 'job-search methods', 'employment opportunities']"
+713,733,03 Apr 2010,24 May 2011,08 Aug 2011,"['Turkish nationalism', 'Alevi', 'ambivalent citizenship', 'cultural nationalism', 'Islam']"
+735,756,27 Feb 2010,05 Jul 2011,23 Aug 2011,"['ethnic and national minorities', 'discursive opportunity structure', 'clams-analysis method', 'Poland']"
+757,782,05 Apr 2010,17 Jun 2011,19 Aug 2011,"['education', 'social class', 'socio-political attitudes', 'South Caucasus', 'standards of living']"
+783,785,04 May 2011,05 Jul 2011,10 Oct 2011,[]
+787,788,,,16 Dec 2011,[]
+1,5,,,23 Feb 2012,[]
+7,34,04 Jan 2011,17 Sep 2011,07 Dec 2011,"['transnationalism', 'horizontal Europeanisation', 'comparative research', 'social networks', 'mobility']"
+35,55,19 Nov 2010,03 Sep 2011,31 Oct 2011,"['cosmopolitan Europe', 'individualization of social rights', 'welfare state modernization', 'solidarity', 'European integration']"
+57,81,04 Feb 2011,23 Oct 2011,07 Dec 2011,"['corruption', 'civil society', 'networks', 'voluntary associations', 'European Social Survey']"
+83,111,15 Oct 2010,08 Oct 2011,02 Dec 2011,"['temporary employment', 'nonstandard work', 'in-work poverty', 'gender', 'Europe', 'comparative']"
+113,134,23 Jun 2010,23 Nov 2010,25 Mar 2011,"['work', 'life course', 'gender', 'family', 'case studies', 'biographies']"
+153,155,,,31 Jan 2012,[]
+157,159,,,30 Jan 2012,[]
+,,,,11 Sep 2012,[]
+161,165,,,16 May 2012,[]
+166,185,,,03 May 2012,"['racism', 'antisemitism', 'antiracism', 'Du Bois', 'Fanon', 'Badiou', 'sociology']"
+186,202,,,25 Apr 2012,"['racism', 'prejudice', 'antisemitism', 'Islamophobia', 'Italy']"
+203,221,,,16 May 2012,"['antisemitism', 'Spain', 'Jews', 'secularization', 'Muslims', 'qualitative methodology']"
+222,239,,,26 Apr 2012,"['antisemitism', 'Islamophobia', 'racism', 'Danish cartoons', 'Swiss ban on minarets', 'UN resolutions']"
+240,258,,,16 May 2012,"['antisemitism', 'racism', 'Islamophobia', 'literature', 'capitalism', 'modernity']"
+259,274,,,01 May 2012,"['antisemitism', 'France', 'racism', 'identity', 'ethnicity', 'social mobility']"
+275,294,,,27 Apr 2012,"['antisemitism', 'Holocaust', 'Marxism', 'left', 'Frankfurt School']"
+305,307,14 Dec 2011,27 Dec 2011,27 Feb 2012,[]
+308,311,05 Jan 2012,27 Feb 2012,30 Apr 2012,[]
+312,314,27 Feb 2012,09 Mar 2012,30 Apr 2012,[]
+315,319,,,10 Sep 2012,[]
+320,337,20 Jul 2010,07 Mar 2012,03 May 2012,"['domestic services', 'knowledge societies', 'labour', 'gender', 'class', 'migration']"
+338,361,23 Nov 2010,07 Mar 2012,14 May 2012,"['statistical discrimination', 'recruitment', 'low-skill workers']"
+362,392,14 May 2010,02 Feb 2012,04 May 2012,"['cultural diversity', 'labour markets', 'integration', 'Germany']"
+393,415,20 Aug 2010,26 Mar 2012,25 Jun 2012,"['help', 'civic engagement', 'volunteering', 'democracy', 'Europe multilevel modeling']"
+416,440,13 Jul 2010,22 Jan 2012,08 Jun 2012,"['crowding out hypothesis', 'social capital', 'access to informal help', 'welfare state']"
+441,462,22 Sep 2009,16 Dec 2011,21 Feb 2012,"['attitudes toward the EU', 'EP election', 'voting participation']"
+463,465,06 Mar 2012,09 Mar 2012,03 May 2012,[]
+471,472,,,15 Nov 2012,[]
+473,483,,,15 Nov 2012,[]
+484,501,,,13 Sep 2012,"['EUrope', 'identity', 'demos', 'ethnic', 'civic']"
+502,521,,,10 Oct 2012,"['enlargement', 'EU', 'identity', 'democracy', 'self-understanding']"
+522,539,,,05 Oct 2012,"['European integration', 'foreign policy', 'normative power', 'international society', 'democracy']"
+540,561,,,20 Sep 2012,"['EU', 'European Commission', 'culture', 'stereotypes', 'corruption', 'cosmopolitanism', 'management']"
+562,585,,,08 Oct 2012,"['European integration', 'differentiated integration', 'Euroscepticism', 'security community', 'regionalism']"
+586,610,02 Aug 2011,19 May 2012,30 Jul 2012,"['European integration', 'religion', 'multi-level modelling', 'EVS']"
+611,632,08 Oct 2010,16 Aug 2012,12 Oct 2012,"['religion', 'secularisation', 'modernisation', 'religious markets', 'believing', 'belonging']"
+633,635,,,11 Dec 2012,[]
+636,659,24 Jun 2011,16 Aug 2012,11 Oct 2012,"['culture', 'policy analysis', 'local governance', 'cross-national analysis', 'mayors', 'Europe']"
+660,683,16 Jul 2010,10 Jul 2012,31 Aug 2012,"['symbolic boundaries', 'cultural boundaries', 'moral boundaries', 'cultural capital', 'Pierre Bourdieu', 'class']"
+684,703,10 Mar 2009,30 Jun 2012,06 Sep 2012,"['self-employment', 'post-communist economies', 'market transition theory', 'structural context']"
+704,726,07 Nov 2010,19 May 2012,06 Aug 2012,"['France', 'temporary employment', 'labour market reforms', 'dualisation', 'institutional change']"
+727,754,07 Sep 2010,19 May 2012,13 Aug 2012,"['economic elites', 'political elites', 'fields', 'multiple correspondence analysis']"
+755,777,15 Dec 2010,15 Aug 2012,10 Oct 2012,"['family policy', 'poverty', 'social investment', 'ideas', 'discourse', 'Finland', 'Germany']"
+778,780,08 Mar 2012,14 May 2012,24 Jul 2012,[]
+781,783,01 Aug 2012,14 Sep 2012,03 Dec 2012,[]
+784,786,03 Sep 2012,14 Sep 2012,29 Nov 2012,[]
+1,3,,,25 Feb 2013,[]
+4,25,12 Apr 2010,06 Nov 2012,27 Nov 2012,"['generations', 'generational conflict', 'pension systems', 'social inequality', 'welfare retrenchment']"
+26,56,14 Feb 2011,15 Aug 2012,05 Oct 2012,"['generations', 'social policy', 'support', 'welfare state']"
+57,81,02 Mar 2011,10 Jul 2012,10 Sep 2012,"['adult children', 'parental financial support', 'private transfers', 'class reproduction']"
+82,105,05 Oct 2010,26 Mar 2012,08 Jun 2012,"['poverty', 'intergenerational transmission', 'welfare regimes', 'economic vulnerability', 'EU-SILC', 'social class']"
+106,130,08 May 2012,05 Nov 2012,14 Dec 2012,"['social capital', 'social trust', 'institutional trust', 'volunteering', 'voluntary organizations']"
+131,152,18 Jun 2010,22 Apr 2012,12 Jun 2012,"['political participation', 'political trust', 'European Social Survey']"
+153,154,,,29 Apr 2013,[]
+162,177,08 Jan 2013,10 Jan 2013,21 Feb 2013,"['art fairs', 'art market', 'visual arts', 'high culture', 'globalisation', 'transnational exchanges']"
+178,195,08 Jan 2013,10 Jan 2013,21 Feb 2013,"['price formation', 'art markets', 'culture', 'uncertainty']"
+196,211,08 Jan 2013,10 Jan 2013,18 Feb 2013,"['art market', 'performativity', 'networks', 'artistic objects', 'cultural value']"
+212,228,08 Jan 2013,10 Jan 2013,21 Feb 2013,"['music', 'markets', 'aesthetics', 'embodiment', 'agency', 'Beethoven']"
+229,245,08 Jan 2013,10 Jan 2013,29 Apr 2013,"['music market', 'sacrilization', 'authorship', 'suicide', 'circuits of commerce', 'field of cultural production']"
+246,267,06 Mar 2012,16 Aug 2012,26 Mar 2013,"['cultural capital', 'cosmopolitanism', 'stratification']"
+268,289,10 May 2011,16 Aug 2012,05 Oct 2012,"['work ethic', 'modernisation', 'social institutions', 'European Values Study', 'comparative study, multilevel analysis']"
+290,308,08 Jan 2013,10 Jan 2013,25 Feb 2013,"['globalization', 'galleries', 'market', 'contemporary art', 'organizational practice']"
+309,311,,,19 Jun 2013,[]
+312,330,27 Feb 2013,27 Feb 2013,16 Apr 2013,"['European integration', 'community building', 'communitarian', 'moral dialogue', 'fiscal union', 'political union']"
+331,352,06 Jul 2010,05 Nov 2012,19 Dec 2012,"['European integration', 'transnationalisation', 'technical standards', 'barriers to trade', 'sociology of markets']"
+353,372,09 Jun 2011,30 Jun 2012,03 Sep 2012,"['borders', 'migration control', 'functions', 'territory', 'institutions']"
+373,387,11 Jan 2011,22 Apr 2012,12 Jun 2012,"['class', 'social capital', 'social space', 'Europe']"
+388,407,24 Apr 2011,14 Jun 2012,25 Jul 2012,"['intra-EU migration', 'new economics of labour migration', 'migrant networks theory', 'migration from Slovakia', 'Labour Force Survey']"
+408,422,05 Jan 2012,16 Aug 2012,18 Sep 2012,"['International migration', 'return migration', 'happiness', 'Romania']"
+423,445,29 Apr 2010,09 Jan 2013,16 Apr 2013,"['family migration', 'unemployment', 'household economic theory', 'bargaining theory', 'gender role theory']"
+446,461,16 Feb 2012,09 Nov 2012,07 Dec 2012,"['reproductive history', 'retirement', 'gender', 'welfare state', 'SHARELIFE']"
+462,464,07 Jan 2013,11 Jan 2013,15 Feb 2013,[]
+465,466,09 Dec 2012,13 Jan 2013,20 Feb 2013,[]
+467,469,10 Jan 2013,24 Mar 2013,07 May 2013,[]
+471,474,,,30 Sep 2013,[]
+475,492,14 Aug 2013,14 Aug 2013,06 Sep 2013,"['Mediterranean Welfare regime', 'new social risks', 'economic crisis', 'welfare reform']"
+493,513,,,30 Sep 2013,"['familism', 'female labour participation', 'household care', 'societal change', 'welfare arrangements']"
+514,534,,,06 Sep 2013,"['welfare attitudes', 'familism', 'Mediterranean model', 'childcare']"
+535,556,,,16 Sep 2013,"['family', 'gender', 'work and family', 'fertility', 'gender equality', 'welfare state']"
+557,576,,,30 Sep 2013,"['Spanish welfare state', 'dependency care', 'familist values', 'intergenerational solidarity']"
+577,596,,,30 Sep 2013,"['long-term care', 'immigration', 'female employment', 'Mediterranean Welfare regime']"
+597,616,,,06 Sep 2013,"['familialist regime', 'statism', 'austerity measures', 'welfare retrenchment', 'pension reform', 'health', 'social care']"
+617,635,,,06 Sep 2013,"['female employment', 'Italy', 'inequality', 'crisis', 'labour market', 'welfare']"
+637,638,,,27 Nov 2013,[]
+639,662,12 Jan 2011,16 Mar 2013,16 May 2013,"['childbearing intentions', 'capability approach', 'economic uncertainties', 'reconciliation policies']"
+663,685,13 May 2011,06 Nov 2012,06 Dec 2012,"['division of household labor', 'family models', 'Germany', 'France', 'gender roles']"
+686,706,,,03 Sep 2012,"['sickness absence', 'absenteeism', 'women', 'children', 'double burden']"
+707,728,14 Oct 2010,13 Jun 2013,19 Aug 2013,"['perceived conflict in reconciling work and family life', 'gender', 'comparative perspective', 'modernisation']"
+729,752,12 Dec 2012,14 Jun 2013,08 Oct 2013,"['historical consciousness', 'collective memory', 'history', 'Czech national history', 'sociological research', 'quantitative methodology']"
+753,779,13 Jun 2010,19 Oct 2011,14 Dec 2011,"['Muslim', 'democratization', 'development', 'modernization', 'values', 'enlargement']"
+780,782,13 Jan 2013,24 Mar 2013,29 Jul 2013,[]
+783,785,24 Mar 2013,31 Mar 2013,22 May 2013,[]
+1,2,,,04 Mar 2014,[]
+3,27,,,03 Dec 2013,"['parental care', 'time use', 'Spain']"
+28,47,,,23 Aug 2012,"['familialism', 'individualism', 'Italy', 'Germany', 'transition to adulthood', 'norms']"
+48,67,,,27 Jun 2013,"['empowerment', 'social policy', 'employability']"
+68,89,,,01 May 2012,"['informal economy', 'informal employment', 'tax compliance', 'unemployment', 'European Union']"
+90,111,,,03 Dec 2012,"['public attitudes', 'pension', 'welfare status model', 'generational cleavage', 'class cleavage', 'gender cleavage', 'multilevel analysis']"
+112,135,,,22 Apr 2013,"['attributions for poverty', 'causes of poverty', 'social perceptions', 'cross-national differences', 'Europe']"
+136,156,,,15 Jul 2013,"['identity', 'European Union', 'Romania', 'Spain', 'mobility']"
+157,159,,,18 Oct 2013,[]
+160,161,,,19 Dec 2012,[]
+162,163,,,22 Nov 2013,[]
+165,166,,,04 Apr 2014,[]
+167,174,,,25 Aug 2013,[]
+175,193,,,07 Aug 2013,"['cross-national comparisons', 'school-to-work transitions', 'institutional effects', 'education systems', 'labour market']"
+194,212,,,05 Aug 2013,"['youth labour market integration', 'school-to-work transitions', 'youth unemployment', 'comparative research', 'European Social Survey']"
+213,232,,,01 Aug 2013,"['school-to-work transition', 'sequence analysis', 'event history analysis', 'life-course research', 'trajectory']"
+233,254,,,07 Aug 2013,"['social and ethnic network composition', 'social capital', 'apprenticeship search', 'school-to-work transition']"
+255,274,,,07 Aug 2013,"['youth labour market', 'school-to-work transitions', 'job requirements', 'vocational training', 'skill demand', 'Switzerland']"
+275,298,,,05 Dec 2012,"['horizontal segregation', 'wage inequalities', 'higher education', 'gender', 'Germany']"
+299,319,,,03 Jun 2013,"['low pay', 'high pay', 'job mobility', 'wage mobility']"
+320,321,,,21 Jun 2013,[]
+322,324,,,18 Sep 2013,[]
+325,328,,,23 Jun 2014,[]
+329,336,,,03 Jun 2014,"['European Secularism', 'religions', 'modern Europe']"
+337,342,,,02 Jun 2014,[]
+343,346,,,23 Jun 2014,[]
+347,350,,,15 May 2014,[]
+351,354,,,15 May 2014,[]
+355,377,,,28 Apr 2014,"['European society', 'Europeanization', 'globalization', 'transnationalism', 'transactions', 'European identity']"
+378,400,,,17 Jul 2013,"['industrial relations', 'demonstrations', 'strikes', 'trade unions', 'Europe']"
+401,421,,,07 Mar 2014,"['cultural integration', 'discourse', 'European identity', 'the European Union', 'heritage politics', 'transnational heritage']"
+422,442,,,14 Dec 2012,"['tertiary education', 'inequality of educational opportunities', 'returns to education']"
+443,461,,,24 Apr 2014,"['marriage', 'couple relationships', 'Europe', 'ideal types', 'social values', 'typology']"
+462,470,,,02 Jun 2014,[]
+471,475,,,07 Feb 2014,[]
+477,479,,,24 Jul 2014,[]
+480,499,,,20 May 2014,"['trust regimes', 'European consumer markets', 'consumer choices', 'trust and trustworthiness', 'food-safety', 'product safety']"
+500,521,,,06 Jan 2014,"['immigration', 'diversity', 'neighbourhood', 'interethnic contact', 'social networks']"
+522,542,,,28 Nov 2013,"['institutional change', 'life-course norms', 'resources', 'social inequality', 'welfare states']"
+543,569,,,24 Jul 2013,"['class analysis', 'forms of capital', 'politics', 'service class', 'social space', 'cultural capital']"
+570,593,,,30 Jan 2014,"['social capital', 'social resources', 'voluntary associations']"
+594,614,,,13 Jan 2014,"['public broadcasting', 'segmented pluralism', 'social structure', 'culture', 'correspondence analysis', 'longitudinal analysis']"
+615,637,,,06 Dec 2012,"['Latvia', 'political efficacy', 'vicious circle', 'trust', 'social capital']"
+638,640,,,03 Mar 2014,[]
+641,644,,,22 Oct 2014,[]
+645,665,,,12 Aug 2014,"['childcare policies', 'educational mobility', 'education', 'social investment', 'social mobility', 'social policy']"
+666,693,,,21 Jul 2014,"['tracking', 'inequality of educational opportunities', 'upper secondary education', 'social stratification', 'Italy', 'educational reforms']"
+694,716,,,23 Jun 2014,"['educational transitions', 'tracking', 'social origin']"
+717,741,,,13 Aug 2014,"[""European patients' organizations"", 'rare diseases', ""Alzheimer's disease"", 'attention deficit hyperactivity disorder', 'Europeanization', 'European construction']"
+742,762,,,29 Jul 2014,"['power elite', 'social stratification', 'social mobility', 'occupational attainment']"
+763,793,,,06 Apr 2014,"['environmental values', 'Italy', 'macro-regions', 'NEP']"
+794,794,,,22 Oct 2014,[]
+,,,,25 Apr 2014,[]
+1,2,,,07 Jan 2015,[]
+3,26,,,10 Jul 2014,"['employment history', 'life course', 'income', 'pension system', 'SHARELIFE']"
+27,46,,,20 Oct 2014,"['working poor', 'poverty', 'Germany', 'UK', 'deregulation', 'centralisation', 'family policy']"
+47,72,,,20 Oct 2014,"['individualisation', 'poverty', 'longitudinal data', 'multilevel analysis', 'Italy']"
+73,93,,,14 Oct 2014,"['social assistance', 'intergenerational', 'nordic', 'welfare']"
+94,114,,,04 Nov 2014,"['public opinion', 'inequality of education', 'symbolic capital']"
+115,117,,,22 Nov 2013,[]
+117,118,,,20 Dec 2013,[]
+119,122,,,26 Jun 2014,[]
+122,125,,,12 Jun 2014,[]
+125,127,,,14 Oct 2014,[]
+129,131,,,02 Apr 2015,[]
+132,157,,,10 Nov 2014,"['social distance', 'dating', 'religion', 'interethnic', 'sexuality', 'Belgium']"
+158,175,,,16 Oct 2014,"['merchant seamen', 'trust', 'Polish maritime industry', 'multicultural labour milieu']"
+176,198,,,13 Jan 2015,"['gender-role attitudes', 'female labor supply', 'contextual effects', 'cross-national research']"
+199,218,,,23 Feb 2015,"['informal care', 'gender informal care gap', 'gender employment gap', 'care policies', 'gendered care attitudes', 'fuzzy-set analysis']"
+219,241,,,10 Feb 2015,"['prestigious institutions', 'Europe', 'wage bargaining', 'labor market mismatch', 'returns to higher education', 'unconditional quantile regression']"
+242,278,,,03 Feb 2015,"['cohort analysis', 'socialization', 'demography', 'education', 'political participation']"
+279,280,,,27 Jul 2015,[]
+301,332,,,12 Mar 2015,"['democratic mentality', 'antidemocratic tendencies', 'demos', 'elites', 'cluster analysis', 'EVS']"
+333,350,,,12 Mar 2015,"['ideology', 'democracy', 'political parties', 'hierarchical cluster analysis', 'EVS']"
+351,371,,,27 Apr 2015,"['welfare attitudes', 'social rights', 'social rights consciousness', 'welfare regimes', 'dualization', 'Portugal']"
+372,395,,,29 Apr 2015,"['immigration', 'attitudes', 'Europe', 'economic crisis', 'Ireland']"
+396,398,,,01 Apr 2015,[]
+398,400,,,21 Apr 2015,[]
+401,403,,,25 Sep 2015,[]
+404,422,,,10 Nov 2014,"[""women's movement"", 'Poland', 'Czech Republic', 'transactional activism', 'mobilization']"
+423,446,,,25 Aug 2015,"['welfare and labor market', 'employment precariousness and family formation', 'insider–outsider divide']"
+447,466,14 Apr 2014,15 Apr 2015,20 Jul 2015,"['care workers', 'care drain', 'transnational partnering', 'Austria', 'Slovakia']"
+467,491,,,12 Aug 2015,"['career mobility', 'modernization', 'status attainment', 'single women', 'growth-curve analysis']"
+492,512,,,14 Jul 2015,"['informal sector', 'shadow economy', 'undeclared work', 'corruption', 'tax evasion', 'Central and Eastern Europe']"
+513,534,,,06 Aug 2015,"['life course', 'precarious prosperity', 'gender', 'agency', 'Romanian households', 'precarious decency']"
+535,568,,,10 Aug 2015,"['overeducation', 'skill mismatch', 'field of study', 'labour market institutions']"
+569,592,,,24 Aug 2015,"['EU affairs', 'professionalism', 'Europeanization', 'European Union', 'social field', 'transnationalism']"
+593,614,,,12 Aug 2015,"['European identity', 'narratives of Europe', 'local context']"
+615,616,,,16 Jul 2015,[]
+617,619,,,02 Feb 2016,[]
+620,652,,,01 Oct 2015,"['immigration', 'ethnic prejudice', 'subjective rationality', 'welfare state', 'Germany']"
+653,673,,,05 Nov 2015,"['welfare models', 'economic crisis', 'welfare state', 'social insurance', 'Southern Europe', 'Greece']"
+674,699,,,21 Dec 2015,"['perceived employability', 'supportive national context', 'multi-level analysis']"
+700,723,,,05 Jan 2016,"['political trust', 'economic indicators', 'multilevel analysis', 'financial crisis']"
+724,746,,,15 Dec 2015,"['globalization', 'Europeanization', 'transnationalism', 'professional football', 'football audience', 'public sphere']"
+747,751,,,22 Sep 2015,[]
+1,4,,,03 Mar 2016,[]
+5,24,16 Jul 2014,09 Dec 2015,05 Feb 2016,"['Institutions', 'trust', 'social capital', 'economic freedom', 'Eurobarometer']"
+25,46,17 Apr 2014,09 Dec 2015,08 Feb 2016,"['Financial assistance', 'inter-household transfers', 'crowding out', 'EU-SILC']"
+47,69,20 Mar 2014,21 Dec 2015,10 Feb 2016,"['Intergenerational transmission', 'fertility', 'first birth', 'education', 'parent–child dyads', 'Norway']"
+70,90,10 Sep 2014,12 Nov 2015,05 Jan 2016,"['Family policy hybridisation', 'cash for childcare schemes', 'parental choice', 'gender equality', 'Nordic welfare states']"
+91,113,16 May 2014,21 Nov 2015,22 Jan 2016,"['Gender pay gap', 'education', 'family policy', 'segregation', 'on-the-job training']"
+114,116,,,15 Jan 2016,[]
+117,135,30 May 2014,22 Dec 2015,10 Feb 2016,"['Educational attainment', 'parental education', 'parents’ social class', 'parents’ social status', 'parental earnings', 'cognitive ability']"
+136,157,11 Feb 2015,21 Dec 2015,03 Mar 2016,"['NEET', 'life course', 'social exclusion', 'propensity score matching', 'Sweden']"
+158,179,08 Apr 2014,21 Dec 2015,19 Feb 2016,"['Vocational education', 'higher education', 'gender segregation', 'labour markets', 'transition countries']"
+180,199,27 Nov 2014,09 Dec 2015,01 Feb 2016,"['Educational inequality', 'immigrants', 'educational systems', 'tracking', 'QCA', 'fuzzy sets']"
+201,220,23 Apr 2013,09 Feb 2016,06 Apr 2016,"['Family', 'patterns of sociability practices', 'patterns of solidarity norms', 'defamilization', 'welfare state regimes']"
+221,244,17 Dec 2014,24 Mar 2016,25 Apr 2016,"['Social cohesion', 'welfare typology', 'values', 'multidimensional scaling', 'cluster analysis', 'EVS']"
+245,263,09 Jan 2014,15 Jan 2016,02 Mar 2016,"['Self-rated health', 'income inequality', 'generalized social trust', 'multilevel models', 'World Value Survey', 'European Value Survey']"
+264,287,03 Aug 2014,29 Feb 2016,12 Apr 2016,"['Education systems', 'inequalities', 'gender', 'social origin', 'international comparison']"
+288,290,,,17 Apr 2016,[]
+291,294,,,25 Jul 2016,[]
+295,314,13 Jan 2014,22 Dec 2015,29 Feb 2016,"['Nonstandard schedules', 'parenthood', 'child care']"
+315,335,28 May 2014,20 Jun 2016,15 Jul 2016,"['Labour trajectories', 'economic recession', 'Spain', 'flexibility', 'precarious employment', 'social background']"
+336,358,29 Dec 2014,01 Jun 2016,14 Jul 2016,"['Family transfers', 'public transfers', 'intergenerational redistribution', 'SHARE']"
+359,388,18 Jul 2014,11 Mar 2016,12 Apr 2016,"['School autonomy', 'educational decentralization', 'education', 'post-materialism', 'OECD', 'England', 'Germany', 'Italy', 'Sweden']"
+389,409,03 Mar 2015,07 Mar 2016,18 Apr 2016,"['Southern Europe', 'leaving home', 'turning points', 'life course', 'transitions to adulthood', 'qualitative research']"
+417,437,02 Apr 2015,17 May 2016,22 Jun 2016,"['Activation', 'Finland', 'unemployment security', 'disability pensions', 'mental health', 'dualisation']"
+438,459,29 Jul 2014,21 Dec 2015,01 Feb 2016,"['Skilled migration', 'Romanian migration', 'labor incorporation', 'trajectories']"
+460,486,04 Nov 2015,13 Jun 2016,14 Jul 2016,"['Hiring', 'employment', 'health selection', 'flexicurity', 'Scandinavia']"
+487,513,24 May 2013,25 Jul 2016,12 Sep 2016,"['Skills', 'employability', 'volunteering', 'Europe', 'investment model', 'social views']"
+514,534,19 Feb 2015,30 Mar 2016,18 Jul 2016,"['Tolerance of homosexuality', 'social well-being', 'depressive feelings', 'same-sex unions', 'mixed-sex unions']"
+535,559,25 Jan 2016,09 Aug 2016,02 Sep 2016,"['Social capital', 'social inequalities', 'social networks', 'participation', 'neighbourhood renewal', 'deprived areas']"
+560,561,,,22 Sep 2016,[]
+562,563,,,23 Jul 2016,[]
+1,27,29 Dec 2015,05 Sep 2016,26 Sep 2016,"['Educational expansion', 'tracking', 'upper secondary education', 'social stratification', 'Italy', 'inequality of educational outcomes']"
+28,48,16 Mar 2015,25 Jul 2016,31 Aug 2016,"['Education', 'school tracking', 'social inequality', 'Germany', 'educational attainment', 'educational transitions']"
+49,68,29 Apr 2016,24 Aug 2016,20 Oct 2016,"['Childcare', 'welfare attitudes', 'cross-national research', 'policy provision structure']"
+69,90,22 Jun 2015,25 Jul 2016,12 Sep 2016,"['Parent–child relations', 'leaving-home transition', 'life course', 'gender and family', 'Italy']"
+91,112,16 Jan 2015,29 Sep 2016,23 Nov 2016,"['Maternal employment', 'gender equality', 'gender-class intersection', 'family policy']"
+113,115,,,21 Sep 2016,[]
+115,117,,,16 Nov 2016,[]
+119,120,,,17 Mar 2017,[]
+121,137,,,06 Jan 2017,[]
+138,156,10 Mar 2015,26 Nov 2016,05 Jan 2017,"['Female employment', 'working time', 'work orientation', 'family values', 'comparative analysis']"
+157,177,10 Mar 2015,26 Nov 2016,03 Jan 2017,"['Women’s employment', 'comparative study', 'care responsibilities', 'care policy', 'welfare state']"
+178,201,10 Mar 2015,26 Nov 2016,29 Dec 2016,"['Female employment', 'citizenship', 'local welfare state']"
+202,221,11 Mar 2015,26 Nov 2016,29 Dec 2016,"['Women', 'labour-market participation', 'insecurity', 'economic vulnerability']"
+223,242,19 Oct 2015,10 Nov 2016,29 Dec 2016,"['Commercialisation', 'globalisation', 'diversity', 'inequality', 'football', 'market value']"
+243,267,30 Mar 2015,18 Dec 2016,16 Feb 2017,"['Television', 'anti-immigrant sentiments', 'fear of crime', 'crime', 'perceived ethnic diversity']"
+268,291,12 Mar 2016,10 Oct 2016,23 Nov 2016,"['Welfare state regime', 'health inequality', 'social networks']"
+292,312,08 Apr 2016,29 Jan 2017,20 Feb 2017,"['Women’s preferences', 'work-orientation', 'work–life conflict', 'International Social Survey Programme']"
+313,335,23 May 2015,29 Jan 2017,21 Feb 2017,"['Employment commitment', 'cultural factors', 'European Social Survey', 'institutional factors', 'multilevel regression analysis']"
+336,338,,,22 Sep 2016,[]
+338,340,,,13 Feb 2017,[]
+341,345,,,26 Jul 2017,[]
+346,369,26 May 2014,21 Apr 2017,26 May 2017,"['Analytical sociology', 'methodological individualism', 'human values', 'structural equation modeling', 'multilevel confirmatory factor analysis', 'European social survey']"
+370,395,26 Jul 2016,07 Mar 2017,27 Apr 2017,"['Gender role attitudes', 'modernization', 'traditionalism', 'intracohort change', 'Italy', 'path-dependency']"
+396,418,03 Mar 2016,20 Dec 2016,23 Jan 2017,"['Working hours', 'life course', 'paid leave', 'work–life balance']"
+419,439,09 May 2016,27 Feb 2017,08 May 2017,"['Public support', 'social assistance', 'economic cycle', 'unemployment', 'Finland']"
+440,465,29 Jan 2016,10 Nov 2016,03 Jan 2017,"['Anti-immigration attitudes', 'ethnic competition theory', 'perceived ethnic threat', 'perceived economic strain', 'European Social Survey']"
+466,491,15 Jul 2016,29 Jan 2017,14 Feb 2017,"['Intergenerational obligations', 'parental norms', 'filial norms', 'ascending familialism', 'descending familialism', 'normative solidarity']"
+492,516,17 Apr 2015,10 Aug 2016,06 Sep 2016,"['Trust', 'diversity', 'ethnicity', 'identity', 'group trust', 'political trust', 'Turkey']"
+517,519,,,06 Nov 2017,[]
+520,528,,,06 Nov 2017,[]
+529,550,17 Aug 2015,16 May 2017,12 Jun 2017,"['Religion', 'secularism', 'global justice', 'epistemological injustice', 'human rights', 'humanitarianism']"
+551,579,23 Jun 2015,16 May 2017,07 Jun 2017,"['Religion', 'EU', 'constitutions', 'neo-institutionalism', 'path dependency', 'document analysis']"
+580,599,21 May 2015,16 May 2017,05 Jun 2017,"['Church', 'advocacy', 'EU parliament elections', 'public religion']"
+600,622,30 Jun 2015,16 May 2017,07 Jun 2017,"['Homosexuality', 'religion', 'Roman Catholic Church', 'reparative therapy', 'discourse']"
+623,644,07 Sep 2015,16 May 2017,05 Jun 2017,"['German Islam Conference', 'Islam in Germany', 'racism', 'incorporation of Islam', 'governmentality']"
+645,669,12 Sep 2015,16 May 2017,06 Jun 2017,"['Public sphere', 'Islamism', 'populism', 'identity politics', 'boundary-making']"
+1,25,07 Mar 2016,22 Dec 2016,31 Mar 2017,"['Educational inequalities', 'persistent inequality', 'educational expansion']"
+26,64,09 Feb 2016,07 Mar 2017,05 Jun 2017,"['Educational system', 'comparative research', 'social origins', 'educational attainment']"
+65,88,23 Aug 2016,21 Apr 2017,22 May 2017,"['Adult education', 'human capital', 'inequality', 'occupational mobility', 'regime change', 'Russia', 'life course']"
+89,110,11 Dec 2016,31 May 2017,01 Jul 2017,"['Resilience', 'hardship', 'practice theory', 'agency/structure dualism', 'community']"
+111,130,20 Mar 2017,02 Nov 2017,16 Nov 2017,"['Intergenerational support', 'gender', 'Romania', 'precariousness', 'ambivalence']"
+131,156,26 Apr 2016,09 Nov 2017,22 Nov 2017,"['Non-kin', 'support sources', 'culture', 'Europe', 'cross-country comparison']"
+159,182,07 Oct 2016,29 Sep 2017,26 Oct 2017,"['Elites', 'power', 'professionals', 'rise and fall of elites']"
+183,206,28 Jun 2016,21 Aug 2017,14 Nov 2017,"['Left-wing activists', 'right-wing activists', 'Attac', 'Front National']"
+207,235,05 Jul 2016,07 Jun 2017,31 Jul 2017,"['Informality', 'informal economy', 'licit', 'illicit', 'childcare', 'care', 'corruption', 'post-socialism']"
+236,256,17 Mar 2016,10 May 2017,13 Nov 2017,"['Procedural justice', 'legitimacy', 'Scandinavia', 'trust', 'interview study', 'welfare']"
+257,280,01 Oct 2016,01 Feb 2018,26 Feb 2018,"['Crowding in', 'social capital', 'social protection', 'social spending', 'within-country effects']"
+281,300,17 Aug 2016,07 Jul 2017,27 Jul 2017,"['Early school leaving', 'dropout', 'age norms', 'EU', 'life course', 'transitions']"
+301,321,04 Nov 2016,02 Nov 2017,21 Nov 2017,"['Peer effects', 'immigrants', 'upper secondary school', 'completions', 'exams']"
+322,353,21 Jul 2016,03 Nov 2017,15 Dec 2017,"['Social sciences and humanities', 'scholars', 'professors', 'public intellectuals', 'experts', 'media commentary', 'European Parliament election', 'European public sphere']"
+357,358,,,28 May 2018,[]
+359,374,,,28 May 2018,[]
+375,400,23 Sep 2016,10 Aug 2017,26 Sep 2017,"['Social class', 'political structure', 'political field', 'Bourdieu', 'social space']"
+401,423,21 Apr 2015,10 Aug 2017,05 Sep 2017,"['Class', 'cultural capital', 'homology', 'politics', 'social space']"
+424,452,26 Mar 2015,10 Aug 2017,05 Sep 2017,"['Economic elite', 'reproduction', 'economic capital', 'education strategies', 'Sweden']"
+453,477,20 Dec 2013,11 Jan 2015,06 Sep 2017,"['Career models', 'Europe', 'internationalisation', 'multiple correspondence', 'analysis', 'top management', 'field analysis']"
+478,502,16 May 2016,10 Aug 2017,13 Sep 2017,"['Bourdieu', 'class', 'cultural capital', 'gender', 'lifestyles']"
+503,524,31 Mar 2015,10 Aug 2017,06 Sep 2017,"['Bourdieu', 'class', 'cultural capital', 'Lamont', 'lifestyle', 'Multiple Correspondence Analysis', 'status']"
+525,548,26 Mar 2015,10 Aug 2017,04 Sep 2017,"['Habitus', 'time', 'elite education', 'social space']"
+549,571,06 Apr 2017,01 Mar 2018,15 Mar 2018,"['Life satisfaction', 'social class', 'unemployment', 'Germany', 'Switzerland', 'income inequality']"
+572,594,30 Mar 2017,03 Nov 2017,14 Nov 2017,"['Citizens’ initiatives', 'political trust', 'political knowledge', 'direct democracy', 'political participation', 'democratic innovations']"
+595,620,06 Mar 2017,12 Sep 2017,14 Nov 2017,"['Religion', 'immigration attitudes', 'economic insecurity', 'unemployment', 'social norms', 'Europe']"
+621,643,01 Nov 2016,08 Aug 2017,07 Mar 2018,"['Career', 'elite', 'gender', 'Germany', 'inequality', 'parliament']"
+644,664,31 Mar 2017,09 Nov 2017,22 Nov 2017,"['Sociology', 'research commercialization', 'funding', 'university reforms', 'scientific discipline']"
+665,689,20 Apr 2016,01 Feb 2018,19 Feb 2018,"['Language choice', 'family language policy', 'mixed unions', 'the Netherlands', 'European Union']"
+690,692,,,23 Mar 2018,[]
+692,694,,,23 Mar 2018,[]
+694,698,,,29 May 2018,[]
+699,714,01 Jun 2018,01 Jun 2018,25 Oct 2018,"['Europe', 'culture', 'family']"
+715,742,01 Nov 2016,10 Nov 2017,29 May 2018,"['Family', 'family conception', 'culture', 'leitbild', 'norm']"
+743,763,27 Oct 2016,02 Aug 2017,20 May 2018,"['Family understandings', 'couples', 'nuclear family', 'emotional closeness', 'family relations', 'kinship relations']"
+764,784,01 Oct 2016,04 Feb 2018,25 May 2018,"['Extracurricular activities', 'parenting culture', 'concerted cultivation', 'time pressure', 'social class']"
+785,815,31 Mar 2017,08 Nov 2017,07 Jun 2018,"['Childcare', 'couples', 'gender', 'income', 'ideology', 'education', 'inequality']"
+816,834,01 Mar 2017,14 Aug 2017,31 May 2018,"['Human rights', 'family life', 'marriage', 'incest', 'egg donation', 'surrogacy']"
+1,3,,,05 Mar 2019,[]
+4,32,19 Aug 2016,22 Nov 2018,30 Nov 2018,"['Multiple identification', 'political identity', 'uncertainty', 'political trust', 'economic expectations', 'societal pessimism']"
+33,51,01 Nov 2017,20 May 2018,11 Jul 2018,"['Right parties', 'political competition', 'social policy', 'political cleavages', 'poverty']"
+52,75,10 Apr 2017,09 Jun 2018,27 Jul 2018,"['Roma', 'needs', 'participation', 'mixed methods', 'community']"
+76,100,06 Feb 2017,01 Feb 2018,08 Mar 2018,"['Moralisation', 'Brexit', 'civic stratification']"
+101,129,02 Dec 2017,09 Jul 2018,28 Aug 2018,"['Migrants', 'fertility', 'comparison', 'population']"
+130,157,01 Jun 2017,27 Sep 2018,29 Oct 2018,"['Working poor', 'household poverty', 'female employment', 'involuntary part-time', 'low-wage']"
+158,180,27 Oct 2016,02 Apr 2018,27 Apr 2018,"['Childcare', 'gender division of labour', 'housework', 'parenthood', 'parental leave', 'family policy']"
+181,182,,,01 May 2019,[]
+183,189,,,01 May 2019,[]
+190,213,25 Jul 2016,01 Feb 2018,04 Apr 2019,"['Class', 'deprivation', 'crisis', 'Europe', 'comparative']"
+214,236,21 Jul 2016,05 Apr 2017,19 Feb 2018,"['Europeanization', 'reference groups', 'relative deprivation', 'life satisfaction', 'perception of living standards']"
+237,255,29 Jul 2016,23 Nov 2018,27 Feb 2019,"['Fertility intentions', 'childbearing', 'economic situation']"
+256,279,25 Jul 2016,02 Nov 2018,22 Nov 2018,"['Redistribution', 'taxation', 'economic crisis', 'public opinion']"
+280,302,25 Jul 2016,02 Jun 2018,04 Mar 2019,"['Relative deprivation', 'crisis', 'generalised prejudice', 'LIVEWHAT']"
+303,325,20 Jul 2016,23 Nov 2018,01 May 2019,"['Populism', 'elites', 'regions', 'demand side', 'subnational variation']"
+327,355,25 Jul 2018,24 Feb 2019,28 Mar 2019,"['Race/ethnicity', 'stratification processes', 'negative stereotypes', 'stigma', 'discrimination']"
+356,377,20 Oct 2017,01 Feb 2018,04 Mar 2018,"['Field experiment', 'gender segregation', 'higher education', 'information', 'returns to education']"
+378,402,01 Aug 2017,26 Apr 2018,18 May 2018,"['Work–life balance', 'part-time work', 'gender inequality', 'Europe']"
+403,421,08 Oct 2017,09 Jul 2018,22 Aug 2018,"['Sexuality', 'gender', 'Italy']"
+422,442,07 May 2018,11 Aug 2018,26 Oct 2018,"['Social movements', 'parties', 'gender', 'religion', 'politics', 'Italy']"
+443,443,,,02 Jun 2019,[]
+445,446,,,08 Aug 2019,[]
+447,462,24 Apr 2018,01 Jun 2018,17 Jul 2018,"['Far right', 'social movements', 'political parties', 'activism', 'mobilisation']"
+463,486,10 Oct 2017,28 Mar 2018,16 Jul 2018,"['Radical right movements', 'movement parties', 'mobilization', 'interaction']"
+487,512,30 Oct 2017,15 Feb 2018,10 Jul 2018,"['Protest politics', 'electoral politics', 'social movements', 'Western Europe', 'protest event analysis']"
+513,539,28 Sep 2017,18 Jan 2018,20 Jul 2018,"['Far right', 'transnationalism', 'Twitter', 'issues', 'movements', 'social network analysis']"
+540,562,14 Sep 2017,31 Jan 2018,10 Jul 2018,"['Far-right', 'social media', 'social networks', 'discourse analysis', 'online participation']"
+563,582,20 Sep 2017,28 May 2018,16 Jul 2018,"['Far right movements', 'institutionalization', 'Greece', 'Russia', 'Golden Dawn', 'movement against illegal immigration']"
+583,602,29 Oct 2017,28 May 2018,19 Jul 2018,"['Radical right-wing parties', 'ethno-nationalism', 'Swedish ‘exceptionalism’', 'the Sweden democrats, Swedish ethnic nationalism', 'frame theory']"
+603,626,11 Sep 2017,09 Feb 2018,10 Jul 2018,"['Jobbik', 'far right', 'Hungary', 'youth activism', 'social movements']"
+629,648,16 Apr 2019,05 May 2019,09 Jul 2019,"['Solidarity', 'crises', 'Europe', 'welfare state', 'collective action', 'integration']"
+649,671,30 Nov 2016,01 Feb 2018,23 May 2019,"['Solidarity', 'symbolic struggles', 'FPÖ', 'trade unions', 'civil society actors', 'Austria']"
+672,703,21 Dec 2016,23 Mar 2018,20 May 2019,"['Solidarity', 'perceived ethnic threat', 'societal malaise', 'European areas', 'European Social Survey', 'attitudes towards immigrants', 'ethnocentrism']"
+704,728,16 Jul 2018,08 Apr 2019,22 May 2019,"['Refugees', 'crisis', 'solidarity', 'attitudes', 'cross-national comparison', 'migration']"
+729,752,16 Jan 2017,24 Apr 2018,20 May 2019,"['Sustainable community movement organisations', 'alternative economic practices', 'social movements', 'political consumerism', 'Italy']"
+753,773,21 Dec 2016,17 Jul 2018,12 Sep 2018,"['Food banks', 'charity', 'political solidarity', 'inter-recognition', 'stigma']"
+774,801,21 Dec 2016,01 Feb 2018,25 May 2019,"['Income inequality', 'redistributive preferences', 'median voter hypothesis', 'age-period-cohort analysis', 'British Social Attitudes survey', 'General Social Survey']"
+1,3,,,16 Jan 2020,[]
+4,25,21 Nov 2017,22 Jun 2018,21 Aug 2018,"['Atheism', 'autonomy', 'obedience', 'religion', 'collectivism', 'cross-national research']"
+26,46,20 Feb 2018,02 Nov 2018,21 Nov 2018,"['Religiosity', 'family relations', 'intergenerational solidarity', 'traditional attitudes', 'Italy']"
+47,76,04 Dec 2017,01 Nov 2018,10 Dec 2018,"['Youth employment', 'skill upgrading', 'overeducation']"
+77,100,,,04 Sep 2019,"['Attitudes', 'active labour market policy', 'ageism', 'survey experiment', 'legitimacy', 'deservingness']"
+101,121,11 Oct 2018,01 Nov 2018,19 Nov 2018,"['Caregiving', 'quality of life', 'active ageing', 'SHARE', 'cross-national research']"
+122,148,03 Sep 2018,23 Feb 2019,13 May 2019,"['Politics of death', 'national days of mourning', 'sociology of culture', 'European Values Survey']"
+149,151,,,25 Apr 2019,[]
+151,154,,,17 Oct 2019,[]
+154,156,,,22 Oct 2019,[]
+157,187,,,09 Jul 2019,"['Returns to education', 'occupational status', 'unemployment', 'labour market', 'the 2008 economic crisis', 'comparative analysis']"
+188,210,28 Jan 2018,16 Aug 2019,17 Sep 2019,"['Education', 'employment regime theory', 'job autonomy', 'job learning', 'job quality']"
+211,230,,,01 Dec 2019,"['Immigration', 'political distrust', 'Europe']"
+231,265,12 Feb 2018,24 Feb 2019,10 May 2019,"['Electoral abstention', 'non-electoral participation', 'latent class analysis', 'European politics']"
+266,289,05 Aug 2018,16 Aug 2019,23 Sep 2019,"['EU membership conditionality', 'country’s sovereignty', 'elites and masses', 'public opinion', 'political trust', 'Albania']"
+291,292,,,26 May 2020,[]
+293,316,17 Dec 2018,04 Sep 2019,14 Nov 2019,"['Anti-immigrant attitudes', 'social identity theory', 'social mobility', 'unemployment', 'fixed effects regression', 'Germany']"
+317,336,11 Dec 2018,05 May 2019,16 May 2019,"['Welfare state dependency', 'case study', 'welfare benefits', 'the Danish welfare state', 'intergenerational transmission of welfare dependency', 'welfare exits']"
+337,367,29 Nov 2016,06 Jan 2020,17 Feb 2020,"['Attitudinal research', 'European integration', 'European solidarity tax', 'sovereign debt crisis', 'willingness to pay']"
+368,389,18 Dec 2018,28 Aug 2019,25 Sep 2019,"['Internet', 'volunteering', 'voluntary organizations', 'European Union', 'comparative analysis']"
+390,410,01 Aug 2018,31 Oct 2019,25 Nov 2019,"['Grandparenting', 'intergenerational relationships', 'parent care', 'sandwich generation']"
+411,432,02 Dec 2018,11 Oct 2019,21 Nov 2019,"['Youth policy', 'online platforms', 'wiki', 'collaboration', 'youth', 'digital ethnography']"
+433,455,14 Feb 2019,25 Dec 2019,03 Feb 2020,"['Parental death', 'maternal death', 'paternal death', 'social inheritance', 'higher education', 'children']"
+456,479,11 Jun 2019,23 Feb 2020,14 May 2020,"['Generalised trust', 'immigration attitudes', 'social cohesion', 'contextual effects', 'multilevel model']"
+480,502,01 Nov 2018,03 May 2020,21 May 2020,"['Anti-immigrant sentiment', 'immigration', 'populism', 'Norway', 'experimental design']"
+503,524,,,06 Jun 2020,"['Stereotypes', 'discrimination', 'experiences', 'employment', 'interviews', 'workers']"
+525,527,,,04 Jun 2020,[]
+529,554,12 Apr 2019,31 Oct 2019,19 Nov 2019,"['Nationalism', 'right-wing populism', 'transnationalization', 'Pierre Bourdieu', 'cultural capital']"
+555,580,19 Sep 2019,27 Jun 2020,16 Jul 2020,"['Ethnic competition', 'group position threat', 'social marginalization', 'radical right', 'voting support']"
+581,609,14 Jun 2019,09 Sep 2020,08 Oct 2020,"['Referendums', 'radical right', 'radical left', 'populism', 'direct democracy', 'political participation']"
+610,635,,,24 Jul 2020,"['Direct contact', 'indirect contact', 'prejudice', 'Greek Cypriots', 'Turkish Cypriots']"
+636,658,28 Mar 2019,05 Dec 2019,29 Jan 2020,"['Immigrants', 'occupational status', 'language skills', 'disadvantage', 'attitudes', 'Europe']"
+659,681,29 Feb 2020,08 Sep 2020,02 Oct 2020,"['Ethnic discrimination', 'correspondence experiment', 'recruitment', 'Finland', 'immigrants']"
+1,22,13 Oct 2019,28 Jan 2020,31 Mar 2020,"['Welfare attitudes', 'cultural values', 'self-interests', 'family policy', 'welfare state', 'Southern Europe']"
+23,45,26 Jun 2019,09 Apr 2020,07 May 2020,"['universal basic income', 'employment commitment', 'work ethic', 'work orientations', 'welfare attitudes', 'European social survey']"
+46,70,23 Aug 2019,28 Apr 2020,18 May 2020,"['Youth unemployment', 'public employment services', 'job search', 'crisis', 'multilevel analysis', 'active labour market policy']"
+71,97,,,23 Sep 2020,"['Assortative mating', 'closure', 'cultural capital', 'elites', 'marriage']"
+98,118,18 Jun 2019,01 Apr 2020,19 May 2020,"['Ageing', 'social networking sites', 'social media', 'well-being', 'life satisfaction', 'socio-economic inequalities']"
+119,160,13 Apr 2019,28 Apr 2020,18 May 2020,"['Childlessness', 'theory of planned behaviour', 'fertility intentions', 'Generations and gender Surveys', 'childfree']"
+161,189,01 Aug 2019,26 Jun 2020,20 Jul 2020,"['Solo living', 'one-person households', 'second demographic transition', 'generational replacement', 'demographic analysis', 'Spain']"
+190,191,,,28 Jan 2021,[]
+S1,S1,,,20 Jan 2021,[]
+S2,S32,02 Dec 2020,22 Dec 2020,27 Jan 2021,"['Coronavirus crisis', 'COVID-19 pandemic', 'inequality', 'solidarity', 'Europe']"
+S33,S46,26 Jun 2020,03 Jul 2020,01 Aug 2020,"['Welfare state', 'risk perceptions', 'government intervention', 'Novel Coronavirus Pandemic']"
+S47,S59,29 Jun 2020,28 Jul 2020,11 Aug 2020,"['Crime trends', 'Internet', 'cyber security', 'fraud', 'police statistics', 'routine activities']"
+S60,S67,22 Jun 2020,04 Aug 2020,18 Aug 2020,"['ESM', 'local communities', 'infrastructures', 'local investments']"
+S68,S81,01 Jul 2020,07 Aug 2020,27 Aug 2020,"['Corona', 'cognitive labor', 'pandemic', 'gender', 'Germany', 'topic models']"
+S82,S94,,,28 Aug 2020,"['Mothers', 'academy', 'gender', 'teaching', 'research', 'competitiveness']"
+S95,S110,25 Jul 2020,22 Aug 2020,22 Sep 2020,"['COVID-19', 'Hungary', 'childcare work', 'care crisis', 'division of household labour', 'gender']"
+S111,S121,01 Aug 2020,27 Aug 2020,14 Sep 2020,"['Resilience', 'COVID-19', 'political trust', 'political communication']"
+S122,S140,13 Jul 2020,29 Aug 2020,14 Sep 2020,"['COVID-19', 'volunteering', 'welfare', 'social media', 'solidarity']"
+S141,S152,30 Jul 2020,29 Aug 2020,14 Sep 2020,"['COVID-19', 'livestream', 'music', 'rave culture', 'social solidarity', 'ritual theory']"
+S153,S171,,,27 Sep 2020,"['Coronavirus crisis', 'European Values Study', 'Kendall’s tau-b', 'panel data', 'public opinion', 'values stability']"
+S172,S183,,,22 Sep 2020,"['Social movements', 'civil society', 'migration', 'intersectionality', 'Germany', 'COVID-19']"
+S184,S198,,,22 Sep 2020,"['Coronavirus', 'SARS-CoV-2', 'physical inactivity', 'exercise', 'sedentariness', 'social distancing']"
+S199,S214,31 Jul 2020,07 Sep 2020,30 Sep 2020,"['Fertility', 'COVID pandemic', 'gender arrangements', 'social values']"
+S215,S227,31 Jul 2020,08 Sep 2020,13 Oct 2020,"['COVID-19', 'social policy', 'employment', 'gender']"
+S228,S245,31 Jul 2020,09 Sep 2020,22 Sep 2020,"['Gender inequality', 'gender-role attitudes', 'unemployment', 'COVID-19']"
+S246,S261,21 Jul 2020,10 Sep 2020,29 Sep 2020,"['COVID-19', 'conspiracy theories', 'open mindedness', 'social belonging', 'collective narcissism', 'Eastern Europe']"
+S262,S274,25 Jun 2020,11 Sep 2020,22 Sep 2020,"['Biopolitics', 'Covid-19', 'discourse analysis', 'liberalism']"
+S275,S288,31 Jul 2020,11 Sep 2020,29 Sep 2020,"['Health behavior', 'health inequality', 'education', 'working conditions', 'coronavirus']"
+S289,S306,31 Jul 2020,15 Sep 2020,06 Oct 2020,"['Risk perception', 'health worries', 'financial worries', 'COVID-19 pandemic', 'ethnic minorities', 'social inequalities']"
+S307,S320,31 Jul 2020,13 Sep 2020,06 Oct 2020,"['COVID-19', 'minorities', 'race', 'racism', 'crisis', 'Gramsci']"
+S321,S331,24 Jul 2020,16 Sep 2020,06 Oct 2020,"['COVID-19', 'platform work', 'gig economy', 'Glovo', 'Poland']"
+S332,S347,24 Jul 2020,16 Sep 2020,06 Oct 2020,"['Coronavirus', 'COVID-19', 'Sweden', 'implicit norms', 'social norms', 'media reporting']"
+S348,S369,31 Jul 2020,17 Sep 2020,23 Oct 2020,"['Social origin', 'home-schooling', 'COVID-19', 'BerO']"
+S370,S383,31 Jul 2020,17 Sep 2020,08 Oct 2020,"['distress', 'COVID-19 lockdown', 'foreign-born', 'UK-born', 'working men', 'mental well-being']"
+S384,S399,31 Jul 2020,20 Sep 2020,06 Oct 2020,"['Ethnic discrimination', 'Covid-19', 'housing market', 'field experiments', 'real estate']"
+S400,S416,,,13 Oct 2020,"['COVID-19 pandemic', 'housework', 'childcare', 'gender', 'contribution to income']"
+S417,S447,29 Jul 2020,21 Sep 2020,08 Oct 2020,"['Covid-19', 'anxiety', 'behavioral response', 'economic preferences', 'development']"
+S448,S463,29 Jul 2020,22 Sep 2020,08 Oct 2020,"['Refugees', 'labour market integration', 'social vulnerability', 'Covid-19 crisis']"
+S464,S477,31 Jul 2020,22 Sep 2020,22 Oct 2020,"['Social distancing', 'Italy', 'frame', 'social isolation', 'home confinement']"
+S478,S494,31 Jul 2020,22 Sep 2020,22 Oct 2020,"['Prostitution', 'sex work', 'lockdown', 'Covid-19', 'Netherlands', 'Belgium']"
+S495,S512,31 Jul 2020,22 Sep 2020,13 Oct 2020,"['Covid-19', 'social class', 'work and employment', 'inequality', 'economic risks', 'health risks']"
+S513,S529,31 Jul 2020,25 Sep 2020,13 Oct 2020,"['Health care organizations', 'vocational education', 'covid-19', 'resilience', 'work team characteristics']"
+S530,S544,31 Jul 2020,27 Sep 2020,13 Oct 2020,"['Distance learning', 'social practices', 'migrant children', 'values']"
+S545,S563,26 Jul 2020,29 Sep 2020,13 Oct 2020,"['COVID-19', 'pandemic', 'policy responses', 'childcare', 'school', 'lockdown']"
+S564,S575,,,18 Oct 2020,"['Family', 'lockdown', 'household', 'solidarity', 'inequalities', 'Covid-19 crisis']"
+S576,S588,,,26 Oct 2020,"['Childcare', 'gender division of family work', 'school closure', 'corona lockdown', 'NEPS-C']"
+S589,S600,24 Jul 2020,02 Oct 2020,15 Oct 2020,"['Borders', 'European integration', 'Covid-19', 'narratives', 'border region residents']"
+S601,S617,30 Jul 2020,01 Oct 2020,15 Oct 2020,"['Work satisfaction', 'family satisfaction', 'lockdown', 'remote work', 'short-time work']"
+S618,S636,31 Jul 2020,02 Oct 2020,22 Oct 2020,"['Social cohesion', 'Covid-19', 'ethnic minorities', 'neighbourhood', 'deprived communities']"
+S637,S657,,,27 Oct 2020,"['Sociology of religion', 'religious field', 'ritual theory', 'authority']"
+S658,S673,24 Jul 2020,02 Oct 2020,22 Oct 2020,"['COVID-19', 'gender', 'family', 'employment', 'division of labour', 'satisfaction']"
+S674,S688,08 Jul 2020,03 Oct 2020,15 Oct 2020,"['Marriage', 'family', 'cohabitation', 'COVID-19', 'uncertainty', 'coronavirus']"
+S689,S703,31 Jul 2020,05 Oct 2020,22 Oct 2020,"['Trust', 'network analysis', 'coronavirus crisis']"
+S704,S720,,,29 Oct 2020,"['religiosity', 'insecurity theory', 'COVID-19', 'Italy']"
+S721,S742,,,29 Oct 2020,"['Racism', 'Covid-19 pandemic', 'Chinese migration', 'France', 'descendants', 'resistance']"
+S743,S758,31 Jul 2020,06 Oct 2020,30 Oct 2020,"['Relationship quality', 'family stress theory', 'Corona', 'pairfam']"
+S759,S776,31 Jul 2020,05 Oct 2020,09 Nov 2020,"['Residential mobility', 'lockdown', 'COVID-19']"
+S777,S790,31 Jul 2020,06 Oct 2020,27 Oct 2020,"['COVID-19', 'pandemic', 'lockdown', 'everyday life', 'positive aspects', 'social change']"
+S791,S804,31 Jul 2020,09 Oct 2020,04 Nov 2020,"['Covid-19', 'financial solidarity', 'European Union', 'Austria']"
+S805,S816,25 Jul 2020,16 Oct 2020,05 Nov 2020,"['Coronavirus', 'neoliberalism', 'legitimation crisis', 'climate crisis']"
+S817,S830,,,08 Nov 2020,"['Precarity', 'COVID-19', 'higher education', 'early career academics', 'United Kingdom']"
+S831,S843,,,08 Nov 2020,"['Social innovation', 'crisis', 'Covid-19 pandemic', 'resilience', 'inner areas']"
+S844,S858,31 Jul 2020,20 Oct 2020,17 Nov 2020,"['Diaries', 'Covid-19 pandemic', 'social change', 'daily practices', 'collective memory', 'mental health', 'emotions']"
+S859,S871,23 Jul 2020,31 Oct 2020,17 Nov 2020,"['Multilevel governance', 'civil society', 'Polish-German border region', 'coronavirus crisis']"
+S872,S886,13 Jul 2020,31 Oct 2020,17 Nov 2020,"['Social distancing', 'weak social ties', 'COVID-19', 'Twitter', 'geotagged', 'GIS']"
+S887,S904,29 Jul 2020,14 Nov 2020,04 Dec 2020,"['Coronavirus', 'Europe', 'solidarity', 'social values', 'social change']"
+S905,S922,,,10 Dec 2020,"['Coronavirus pandemic', 'social inequality', 'gender inequality', 'subjective health', 'well-being']"
+S923,S941,,,10 Dec 2020,"['Corona crisis', 'discourse analysis', 'role models', 'pandemic', 'social characters', 'social control']"
+S942,S956,31 Jul 2020,16 Oct 2020,21 Nov 2020,"['Well-being', 'perceived stress', 'vulnerability', 'financial situation', 'Switzerland', 'panel data']"
