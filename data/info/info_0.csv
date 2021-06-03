@@ -1,4 +1,4 @@
-number_volume,number_issue,number_article,type
+number_volume,number_issue,number_article,type_1
 1,1,1,introduction
 1,1,2,Article
 1,1,3,Article
@@ -11,12 +11,14 @@ number_volume,number_issue,number_article,type
 1,2,3,Article
 1,2,4,Article
 1,2,5,Article
+1,2,6,
 1,2,7,book review
 1,3,1,Article
 1,3,2,Article
 1,3,3,Article
 1,3,4,Article
 1,3,5,book review
+1,3,6,
 2,1,1,Article
 2,1,2,editorial
 2,1,3,Article
@@ -42,6 +44,7 @@ number_volume,number_issue,number_article,type
 2,4,7,book review
 2,4,8,editorial
 3,1,1,Article
+3,1,2,
 3,1,3,Article
 3,1,4,Article
 3,1,5,Article
@@ -117,11 +120,34 @@ number_volume,number_issue,number_article,type
 6,2,9,Article
 6,2,10,Article
 6,3,1,editorial
+6,3,2,
+6,3,3,
+6,3,4,
+6,3,5,
+6,3,6,
 6,3,7,review article
 6,4,1,editorial
+6,4,2,
+6,4,3,
+6,4,4,
+6,4,5,
+6,4,6,
 7,1,1,editorial
+7,1,2,
+7,1,3,
+7,1,4,
+7,1,5,
+7,1,6,
+7,1,7,
+7,1,8,
 7,1,9,review article
 7,2,1,editorial
+7,2,2,
+7,2,3,
+7,2,4,
+7,2,5,
+7,2,6,
+7,2,7,
 7,2,8,review article
 7,3,1,editorial
 7,3,2,Article
@@ -248,6 +274,7 @@ number_volume,number_issue,number_article,type
 10,5,7,Article
 10,5,8,Article
 10,5,9,book review
+10,5,10,
 11,1,1,editorial
 11,1,2,Article
 11,1,3,Article
@@ -333,6 +360,7 @@ number_volume,number_issue,number_article,type
 12,5,8,Article
 12,5,9,book review
 12,5,10,book review
+12,5,11,
 13,1,1,editorial
 13,1,2,Article
 13,1,3,Article
@@ -374,12 +402,21 @@ number_volume,number_issue,number_article,type
 13,5,7,Article
 13,5,8,book review
 13,5,9,book review
+13,5,10,
 14,1,1,editorial
 14,1,2,Article
 14,1,3,Article
 14,1,4,Article
 14,1,5,Article
 14,1,6,Article
+14,1,7,
+14,1,8,
+14,1,9,
+14,1,10,
+14,1,11,
+14,1,12,
+14,1,13,
+14,1,14,
 14,1,15,book review
 14,1,16,book review
 14,2,1,correction
@@ -391,6 +428,10 @@ number_volume,number_issue,number_article,type
 14,2,7,Article
 14,2,8,Article
 14,2,9,Article
+14,2,10,
+14,2,11,
+14,2,12,
+14,2,13,
 14,2,14,book review
 14,2,15,book review
 14,2,16,book review
@@ -402,6 +443,8 @@ number_volume,number_issue,number_article,type
 14,3,6,Article
 14,3,7,Article
 14,3,8,book review
+14,3,9,
+14,3,10,
 14,4,1,editorial
 14,4,2,Article
 14,4,3,Article
@@ -421,6 +464,7 @@ number_volume,number_issue,number_article,type
 14,5,8,book review
 14,5,9,book review
 14,5,10,book review
+14,5,11,
 15,1,1,editorial
 15,1,2,Article
 15,1,3,Article
@@ -429,6 +473,7 @@ number_volume,number_issue,number_article,type
 15,1,6,Article
 15,1,7,Article
 15,2,1,editorial
+15,2,2,
 15,2,3,Article
 15,2,4,Article
 15,2,5,Article
@@ -467,6 +512,7 @@ number_volume,number_issue,number_article,type
 15,5,7,Article
 15,5,8,book review
 15,5,9,book review
+15,5,10,
 16,1,1,editorial
 16,1,2,Article
 16,1,3,Article
@@ -520,6 +566,7 @@ number_volume,number_issue,number_article,type
 16,5,7,Article
 16,5,8,correction
 16,5,9,correction
+16,5,10,
 17,1,1,editorial
 17,1,2,Article
 17,1,3,Article
@@ -539,6 +586,7 @@ number_volume,number_issue,number_article,type
 17,2,6,Article
 17,2,7,Article
 17,3,1,editorial
+17,3,2,
 17,3,3,Article
 17,3,4,Article
 17,3,5,Article
@@ -563,6 +611,7 @@ number_volume,number_issue,number_article,type
 17,5,5,Article
 17,5,6,Article
 17,5,7,book review
+17,5,8,
 18,1,1,editorial
 18,1,2,Article
 18,1,3,Article
@@ -593,6 +642,7 @@ number_volume,number_issue,number_article,type
 18,5,6,Article
 18,5,7,book review
 18,5,8,book review
+18,5,9,
 19,1,1,Article
 19,1,2,Article
 19,1,3,Article
@@ -738,14 +788,67 @@ number_volume,number_issue,number_article,type
 22,5,4,Article
 22,5,5,Article
 22,5,6,Article
-23,1,1,Article
-23,1,2,Article
+23,1,1,editorial
+23,1,2,introduction
 23,1,3,Article
 23,1,4,Article
 23,1,5,Article
 23,1,6,Article
 23,1,7,Article
-23,1,8,book review
+23,1,8,Article
+23,1,9,Article
+23,1,10,Article
+23,1,11,Article
+23,1,12,Article
+23,1,13,Article
+23,1,14,Article
+23,1,15,Article
+23,1,16,Article
+23,1,17,Article
+23,1,18,Article
+23,1,19,Article
+23,1,20,Article
+23,1,21,Article
+23,1,22,Article
+23,1,23,Article
+23,1,24,Article
+23,1,25,Article
+23,1,26,Article
+23,1,27,Article
+23,1,28,Article
+23,1,29,Article
+23,1,30,Article
+23,1,31,Article
+23,1,32,Article
+23,1,33,Article
+23,1,34,Article
+23,1,35,Article
+23,1,36,Article
+23,1,37,Article
+23,1,38,Article
+23,1,39,Article
+23,1,40,Article
+23,1,41,Article
+23,1,42,Article
+23,1,43,Article
+23,1,44,Article
+23,1,45,Article
+23,1,46,Article
+23,1,47,Article
+23,1,48,Article
+23,1,49,Article
+23,1,50,Article
+23,1,51,Article
+23,1,52,Article
+23,1,53,Article
+23,1,54,Article
+23,1,55,Article
+23,1,56,Article
+23,1,57,Article
+23,1,58,Article
+23,1,59,Article
+23,1,60,Article
+23,1,61,Article
 23,S1,1,editorial
 23,S1,2,introduction
 23,S1,3,Article
@@ -807,3 +910,9 @@ number_volume,number_issue,number_article,type
 23,S1,59,Article
 23,S1,60,Article
 23,S1,61,Article
+23,2,1,editorial
+23,2,2,Article
+23,2,3,Article
+23,2,4,Article
+23,2,5,Article
+23,2,6,book review
