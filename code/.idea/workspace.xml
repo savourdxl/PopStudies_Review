@@ -3,13 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7b3b8ccc-0456-41e3-9e87-f2928ce38e40" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/step2_data_processing-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1_crawling data_information.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/step1_crawling data_information.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step2_data_processing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/info/info_article_o_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/info/info_article_o_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/info/info_issue_o.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/info/info_issue_o.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/info/info_issue_o_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/info/info_issue_o_1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/website_article/article_vol23_isu1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/website_article/article_vol23_isu1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/step2_data_processing_5_country-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/step2_data_processing_5_country-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/step2_data_processing_6_word_theme-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/step2_data_processing_6_word_theme-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step2_data_processing_5_country.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/step2_data_processing_5_country.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step2_data_processing_6_word_theme.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/step2_data_processing_6_word_theme.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/info/info_article_o_8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/info/info_article_o_8.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +35,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/step2_data_processing_6_word_theme_2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="step1_crawling data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="step2_data_processing_6_word_theme_LDA_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +52,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step1_crawling data.py" />
+      <option name="SCRIPT_NAME" value="E:\23_stage\2A-CREST\Stantards-of-Publishing_Social-Science\code\step2_data_processing_6_word_theme_LDA_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.step1_crawling data" />
+        <item itemvalue="Python.step2_data_processing_6_word_theme_LDA_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -84,6 +83,10 @@
       <workItem from="1621515025202" duration="142000" />
       <workItem from="1621604662394" duration="31000" />
       <workItem from="1622988758242" duration="59000" />
+      <workItem from="1624354733801" duration="179000" />
+      <workItem from="1624354948497" duration="2698000" />
+      <workItem from="1624826877884" duration="608000" />
+      <workItem from="1624866866947" duration="12024000" />
     </task>
     <servers />
   </component>
@@ -91,36 +94,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621329453104">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624355166019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621329453104" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1621330715438">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624355166019" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1624355164808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621330715438" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1621330715438">
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624355164808" />
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom" timestamp="1624394962630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621330715438" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1621330715437">
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624394962630" />
+    <state width="1493" height="275" key="GridCell.Tab.0.center" timestamp="1624394962630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621330715437" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1621330715438">
+    <state width="1493" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624394962630" />
+    <state width="1493" height="275" key="GridCell.Tab.0.left" timestamp="1624394962629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621330715438" />
+    <state width="1493" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624394962629" />
+    <state width="1493" height="275" key="GridCell.Tab.0.right" timestamp="1624394962630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624394962630" />
     <state x="290" y="63" key="SettingsEditor" timestamp="1621329416473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="290" y="63" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621329416473" />
-    <state x="845" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1622988763557">
+    <state x="845" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1624866906082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="845" y="228" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622988763557" />
+    <state x="845" y="228" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1624866906082" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$step1_crawling_data.coverage" NAME="code Coverage Results" MODIFIED="1624355419028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$step1_crawling_data.coverage" NAME="step1_crawling data Coverage Results" MODIFIED="1621330319998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
