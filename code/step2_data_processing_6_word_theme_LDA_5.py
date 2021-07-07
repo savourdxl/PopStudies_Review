@@ -1,4 +1,5 @@
-# based on titles
+# based on keywords
+# find the best number of topics
 # didn't delete any words
 
 from pprint import pprint
@@ -20,26 +21,30 @@ info_article = pd.read_csv(path+'\\info\\info_article_o_8_n.csv')
 info_issue = pd.read_csv(path+'\\info\\info_issue_o_8.csv')
 info_year = pd.read_csv(path+'\\info\\info_year_o_8.csv')
 
-titles_list = info_article['name_book_words'].values
 
-titles_list_r = []
+# keywords
 
-for i_title in titles_list:
+keywords_list = info_article['keyword'].values
+keywords_list_r = []
 
-    i_title = eval(i_title)
+for i_keyword in keywords_list:
 
-    i_title_r = []
-    for i_i_title in i_title:
-        if i_i_title != None:
-            i_title_r.append(i_i_title)
+    i_keyword = eval(i_keyword)
 
-    titles_list_r.append(i_title_r)
+    i_keyword_r = []
+    for i_i_keyword in i_keyword:
+        if i_i_keyword != None:
+            i_i_keyword = i_i_keyword.lower()
+            i_keyword_r.append(i_i_keyword)
 
-titles_dict = corpora.Dictionary(titles_list_r)
+    keywords_list_r.append(i_keyword_r)
 
-corpus = [titles_dict.doc2bow(i_keyword) for i_keyword in titles_list_r]
+keywords_dict = corpora.Dictionary(keywords_list_r)
+
+corpus = [keywords_dict.doc2bow(i_keyword) for i_keyword in keywords_list_r]
 
 
+# find the best number of topics
 def compute_coherence_values(corpus_r, list_r, dictionary,
                              start = 10, end=20, step=2):
 
@@ -63,31 +68,29 @@ def compute_coherence_values(corpus_r, list_r, dictionary,
 
 
 model_list, coherence_values = compute_coherence_values(corpus_r=corpus,
-                                                        list_r= titles_list_r,
-                                                        dictionary=titles_dict,
-                                                        start=2, end=80, step=1)
+                                                        list_r= keywords_list_r,
+                                                        dictionary=keywords_dict,
+                                                        start=2, end=50, step=1)
 
 plt.close()
-x = range(2,80,1)
+x = range(2,50,1)
 plt.plot(x, coherence_values)
 plt.xlabel("Number of Topics")
 plt.ylabel("Coherence score")
-plt.savefig(path+'\\picture\\coherence_score_2.png')
+plt.savefig(path+'\\picture\\coherence_score_5.png')
 
 # max(coherence_values)
-# 0.5225033865750524
-# coherence_values.index(max(coherence_values))  34
-# number of topics : 36
+# 0.6892114474995178
+# number of topics : 24
+# coherence_values.index(max(coherence_values)) 22
 
 lda_model = gensim.models.LdaMulticore(corpus=corpus,
-                                       id2word=titles_dict,
-                                       num_topics=36,
+                                       id2word=keywords_dict,
+                                       num_topics=24,
                                        random_state=0)
 
 pprint(lda_model.print_topics())
 
-my_pic = gensimvis.prepare(lda_model, corpus, titles_dict)
+my_pic = gensimvis.prepare(lda_model, corpus, keywords_dict)
 
-pyLDAvis.save_html(my_pic, path+'\\picture\\lda_2.html')
-
-# the result doesn't went well
+pyLDAvis.save_html(my_pic, path+'\\picture\\lda_5.html')
